@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/all.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2021-07-05T11:34:11-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/6578930942023</id>
+    <published>2021-07-05T11:34:11-03:00</published>
+    <updated>2021-07-05T11:34:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/ispalla-incense-peru"/>
+    <title>Ispalla Incense Peru</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Ispalla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Ispalla-incense-peru.jpg?v=1625663211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ispalla<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.75 - 125.00
+            <a href="https://soulscents.ca/products/ispalla-incense-peru">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="elementor-element elementor-element-5832aeb elementor-widget elementor-widget-text-editor" data-id="5832aeb" data-element_type="widget" data-widget_type="text-editor.default" data-mce-fragment="1">
+<div class="elementor-widget-container" data-mce-fragment="1">
+<div class="elementor-text-editor elementor-clearfix" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong>NEW! Ispalla Incense Sticks from Peru</strong></p>
+<p data-mce-fragment="1">The energies of northern Peru are fused in incense sticks of Palo Santo to form a pleasant and relaxing aroma that cleanses the energies of every corner of your home or office. It is ideal to use in Yoga, Reiki and meditation practices as it will help to relax the mind and reduce stress.<br></p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1f34f12 elementor-widget elementor-widget-text-editor" data-id="1f34f12" data-element_type="widget" data-widget_type="text-editor.default" data-mce-fragment="1">
+<div class="elementor-widget-container" data-mce-fragment="1">
+<div class="elementor-text-editor elementor-clearfix" data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://ispallaincense.com/" title="Website for Ispalla Incense" target="_blank">Ispalla incenses</a> are made with the highest quality of resins to offer a unique and relaxing experience. There are no chemical components in its preparation, each person who lights an Ispalla incense will be enjoying the unique aromas of Peru.</span></p>
+<p data-mce-fragment="1"><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Ispalla</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Copal</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rue</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Myrrh</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rosemary</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Assorted Box 50ct -10 each scent</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-AB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PS50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Copal Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rue Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PR50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Myrrh Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PM50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rosemary Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PRM50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578926288967</id>
+    <published>2021-07-05T10:53:38-03:00</published>
+    <updated>2021-07-05T10:53:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/crown-relief-roll-on"/>
+    <title>Crown Relief Roll On</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-crown-relief-roll-on.jpg?v=1625493125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An uplifting and feel good way of finding relief, naturally. Made with care in Nova Scotia, Canada using natural, earth-derived magnesium chloride. </p>
+<p data-mce-fragment="1"><strong>Most popular use:</strong> headache relief.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578926288967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>NM-RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578925862983</id>
+    <published>2021-07-05T10:48:24-03:00</published>
+    <updated>2021-07-05T10:48:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-cream"/>
+    <title>Magnesium Cream</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-cream_19a81a50-4f3c-4af1-9d26-0947933bf7e8.jpg?v=1626181279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Blended with skin nourishing Unrefined Shea Butter and Organic Sunflower Seed Oil, our Magnesium Cream provides relief inside and out! Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.<br></p>
+<p data-mce-fragment="1">​Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: Magnesium Cream: <span data-mce-fragment="1">Best results are felt when used daily on an area of concern. Apply to lower abdomen for uses that don’t have specific “areas” of the body or specific areas of concern.</span></p>
+<p data-mce-fragment="1">125ml. Available in Unscented, Lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>magnesium cream</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925862983</id>
+      <title>Cream Unscented</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>NM-CU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925862983</id>
+      <title>Cream Lavender</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>NM-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578925207623</id>
+    <published>2021-07-05T10:45:45-03:00</published>
+    <updated>2021-07-05T10:45:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-cream-with-arnica"/>
+    <title>Magnesium Cream with Arnica</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-cream-with-arnica.jpg?v=1625492955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Blended with skin nourishing Unrefined Shea Butter and Organic Sunflower Seed Oil, the Magnesium Cream with Arnica provides relief inside and out! Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.<br></p>
+<p data-mce-fragment="1">​Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: Magnesium Cream + Arnica: Massage directly over specific body parts that require an extra strength fast and effective relief from sore/tense muscles, arthritic areas and bruising.</p>
+<p data-mce-fragment="1">125ml. Available in Unscented, Lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arnica cream</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925207623</id>
+      <title>Arnica Unscented</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NM-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925207623</id>
+      <title>Arnica Lavender</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NM-AL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578924879943</id>
+    <published>2021-07-05T10:37:35-03:00</published>
+    <updated>2021-07-05T10:37:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-body-spray"/>
+    <title>Magnesium Body Spray</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-body-spray.jpg?v=1625492166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.</p>
+<p data-mce-fragment="1">Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern. Apply to lower abdomen (the most absorbent part of the body) for uses that don’t have specific “areas” or just for general supplementation.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: An application to the lower abdomen before a deep and restful sleep! ​</p>
+<p data-mce-fragment="1">100ml. Available in Unscented, Lavender, Mint + Menthol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body spray</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Mint</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538996514887</id>
+    <published>2021-03-04T18:57:13-04:00</published>
+    <updated>2021-03-04T18:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-chill-body-spray"/>
+    <title>Yoga Potion Chill Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-chill-body-spray.jpg?v=1614898714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>CHILL Mist &amp; Body Spray</strong> works wonderfully to help promote balanced hormones, spray chest, face, thighs and belly to help alleviate hot flashes or PMS. Also great as a calming body spray throughout the day.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996514887</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538996154439</id>
+    <published>2021-03-04T18:53:58-04:00</published>
+    <updated>2021-03-04T18:53:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-meditation-body-spray"/>
+    <title>Yoga Potion Meditation Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-meditation-spray.jpg?v=1614898455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>MEDITATION Mist &amp; Body Spray</strong> is formulated to be calming, grounding &amp; relaxing. Great for a massage space, bed time or to help create a calm around you before yoga or meditation.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996154439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-MBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538995957831</id>
+    <published>2021-03-04T18:52:17-04:00</published>
+    <updated>2021-03-04T18:52:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-clean-freak-spray"/>
+    <title>Yoga Potion Clean Freak Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-clean-freak-spray.jpg?v=1614898556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">CLEAN FREAK</strong> is anti-fungal, anti-bacterial and perfect for yoga mats, massage therapists, camping, pet areas &amp; so much more!<br></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538995957831</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538994417735</id>
+    <published>2021-03-04T18:46:38-04:00</published>
+    <updated>2021-03-04T18:46:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/hemp-infused-skin-firming-oil-120ml"/>
+    <title>Hemp Infused Skin Firming Oil 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-hemp-infused-skin-firming-oil.jpg?v=1614898099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Potion is a wonderful lymphatic drainage blend for massage and cellulite treatment. Intended for all over application.</p>
+<p>*Dry brushing is highly recommended before applying.<br></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538994417735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>YP-SFO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538837295175</id>
+    <published>2021-03-04T11:32:47-04:00</published>
+    <updated>2021-03-04T11:32:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-hemp-infused-massage-oil"/>
+    <title>Yoga Potion Hemp Infused Massage Oil 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-hemp-infused-massage-oil.jpg?v=1614897925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Strains &amp; Sprains, our time and tested potion for over 30 years for inflammation pain, is now boosted with healing hemp, with extra terpenes and cannabinoids making this an impressive topical pain management treatment.  Our Hemp Oil is Raw, THC-A,  having no psychotropic effects."  Great for:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Inflammation muscle &amp; joint pain</li>
+<li data-mce-fragment="1">Massage Oil</li>
+<li data-mce-fragment="1">Bath Soak –<span data-mce-fragment="1"> </span><i data-mce-fragment="1">add 1 cap of oil to Epsom salts… and soak</i>
+</li>
+</ul>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538837295175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>YP-HMS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538829692999</id>
+    <published>2021-03-04T11:20:52-04:00</published>
+    <updated>2021-03-04T11:20:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/marseilles-remedy-hand-sanitizer-60ml"/>
+    <title>Marseille&apos;s Remedy Hand Sanitizer 60ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/MarseillesHandSanitizer.jpg?v=1614871363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Marseille's Hand Sanitizer is more than just a normal sanitizer, it’s a modern rendition of an age-old medicated spray. Approved by Health Canada, Marseille’s Hand Sanitizer kills germs on contact and is gentle on your skin. It is made with all-natural ingredients and has all the topical effects of Marseille’s Remedy. </span></p>
+<span style="font-weight: 400;"></span>
+<p><strong>Medical Ingredients:</strong></p>
+<p><span style="font-weight: 400;">75% grain alcohol (ethanol)</span></p>
+<p><strong>Non-medical ingredients:</strong></p>
+<p><span style="font-weight: 400;">vegetable glycerin, purified water and Aloe Vera. Marseille’s Remedy / Syzygium aromaticum (Clove bud oil*), Citrus limon (Lemon oil*), Cinnamomum verum (Cinnamon bark oil*), Eucalyptus polybractea (Blue Mallee Eucalyptus oil*), Rosmarinus officinalis  (Rosemary oil*).</span></p>
+<p><em><span style="font-weight: 400;">*organic content</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538829692999</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.15</s:price>
+      <s:sku>MR-HS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538825302087</id>
+    <published>2021-03-04T11:14:26-04:00</published>
+    <updated>2021-03-04T11:14:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/marseilles-remedy-thieves-balm-25ml"/>
+    <title>Marseille&apos;s Remedy Traditional Balm 25ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/MarseillesRemedyTraditionalBalm.jpg?v=1614871050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            6.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rub Marseille’s Remedy Traditional Balm on sore muscles and joints to relieve pain and inflammation. Apply on the chest to clear airways and breathe easy. Approved by Health Canada with NPN number for topical use. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Medical Ingredients:</strong></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Syzygium aromaticum</em> (Clove bud oil* – India), <em data-mce-fragment="1">Citrus limon</em> (Lemon* oil – Italli), <em data-mce-fragment="1">Cinnamomum verum</em> (True Cinnamon bark oil* – Sri Lanka), <em data-mce-fragment="1">Eucalyptus polybractea</em> (Blue Mallee Eucalyptus oil* – Australia), <em data-mce-fragment="1">Rosmarinus officinalis</em> (Rosemary oil* – Spain), <em data-mce-fragment="1">Arnica montana</em> (Arnica oil* – Canada), <em data-mce-fragment="1">Mentha</em> (natural Menthol – India), <em data-mce-fragment="1">Cinnamomum camphora</em> (natural Camphor – Taiwan)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Non-medical ingredients:</strong></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Cera alba</em> (Canadian Beeswax)<br data-mce-fragment="1"> *contains organic content, alcohol/chemical-free</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538825302087</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.59</s:price>
+      <s:sku>MR-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538823467079</id>
+    <published>2021-03-04T11:11:17-04:00</published>
+    <updated>2021-03-04T11:11:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/marseilles-remedy-essential-oil-30ml"/>
+    <title>Marseille&apos;s Remedy Essential Oil 30ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/marseilles-remedy-essential-oil.jpg?v=1614870677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            14.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Marseille's Remedy Traditional Oil uses a centuries-old blend of "thieves" style essential oils that can be used diluted or as a base in many DIY recipes for household cleaners and wellness products. Approved by Health Canada with NPN numbers for topical/inhalant and internal use.<br></p>
+<p><strong>Medical Ingredients:</strong></p>
+<p><em>Syzygium aromaticum</em> (Clove bud oil* – India), <em>Citrus limon</em> (Lemon oil* – Italli), <em>Cinnamomum </em>verum (True Cinnamon bark oil* – Sri Lanka), <em>Eucalyptus </em>polybractea (Blue Mallee Eucalyptus oil* – Australia), <em>Rosmarinus officinalis</em> (Rosemary oil* – Spain). *organic content, alcohol/chemical-free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538823467079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.97</s:price>
+      <s:sku>MR-EO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538814095431</id>
+    <published>2021-03-04T10:29:41-04:00</published>
+    <updated>2021-03-04T10:29:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/junglista-outdoor-spray"/>
+    <title>Junglista Outdoor Spray</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/junglista-insect-repellent.jpg?v=1614868182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Junglista is an insect repellent using natural ingredients and an amino acid analog to deter a multitude of pests. Junglist is 100% biodegradable and non-toxic.<br></p>
+<p data-mce-fragment="1">Junglista is specially formulated from natural ingredients for the outdoor enthusiasts who are simply exhausted from non-stop flailing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Junglista</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538814095431</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.15</s:price>
+      <s:sku>MR-JU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4896983711815</id>
+    <published>2020-11-05T12:27:59-04:00</published>
+    <updated>2020-11-05T12:27:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/marseilles-remedy-wild-creek-naturals"/>
+    <title>Wild Creek Naturals - Filled Display</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/MRemedy_Display_front.jpg?v=1614870336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>NEW at Soul Scents</strong> ! Made by Wild Creek Naturals in Salmo BC these 4 products are a great addition to any store.</p>
+<p><strong>Display Includes:</strong> 8 Essential Oils, 8 Traditional Remedy Balm, 8 Hand Sanitizer &amp; 4 Junglista Outdoor Spray. Testers included for each &amp; measures 8" wide x 11" tall x 8" deep. If displays are not in stock delivery to store will take 2 weeks. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Essential Oils</s:tag>
+    <s:tag>Thieves Oil</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4896983711815</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">220.00</s:price>
+      <s:sku>MR-DISPLAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4902634750023</id>
+    <published>2020-11-04T15:10:40-04:00</published>
+    <updated>2020-11-04T15:10:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-baby-products"/>
+    <title>Nova Scotia Fisherman Baby Products</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Baby_Soap.png?v=1604516970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            4.95 - 8.95
+            <a href="https://soulscents.ca/products/nova-scotia-fisherman-baby-products">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NEW From Nova Scotia Fisherman .. Beautiful Baby Products made with their trademark Nova Scotia Sea Kelp with hints of Lavender &amp; Chamomile. </p>
+<p>Baby Balm &amp; Baby Soap with no artificial fragrance, dyes or preservatives &amp; no petroleum based ingredients. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Kids</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902634750023</id>
+      <title>Baby Balm Tin 1oz</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>NSF-BBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902634750023</id>
+      <title>Baby Soap Bar 2.85oz</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>NSF-BSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4902633734215</id>
+    <published>2020-11-04T15:00:53-04:00</published>
+    <updated>2020-11-04T15:00:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-pet-products"/>
+    <title>Nova Scotia Fisherman Pet Products</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Pet_Soap_Bar.jpg?v=1604516399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.45 - 8.95
+            <a href="https://soulscents.ca/products/nova-scotia-fisherman-pet-products">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NEW from Nova Scotia Fisherman ... Soap &amp; Salve for your four legged friend. </p>
+<p>Bar Soap designed for dogs will help with hot spots, condition their skin &amp; is made with essential oils that help to deter fleas &amp; ticks.</p>
+<p>Pet Salve is based on their Rescue Balm formula and is great for rough paws, cuts, scrapes or scratches. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:tag>Pet Soap &amp; Salve</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902633734215</id>
+      <title>Pet Soap Bar 3.3oz</title>
+      <s:price currency="CAD">5.45</s:price>
+      <s:sku>NSF-PS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902633734215</id>
+      <title>Pet Balm Salve 1oz</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>NSF-PB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4651155521607</id>
+    <published>2020-05-22T12:10:47-03:00</published>
+    <updated>2020-05-22T12:10:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/papier-darmenie"/>
+    <title>Papier d&apos;Armenie</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Papier d&apos;Armenie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/papierd_armenietraditional.jpg?v=1590161134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Papier d&#39;Armenie<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.00 - 20.00
+            <a href="https://soulscents.ca/products/papier-darmenie">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Known worldwide as the most ancient natural room deodorizer; since 1885.</strong></em></p>
+<p> Made from natural ingredients such as benzoin and incense.</p>
+<p>Created to perfume your home and eliminate unpleasant odors such as frying, tobacco, cat litter, bathroom or dampness. Bring it with you on your travels : car, vacation home, hotel room.</p>
+<h3>The absorbent paper used to manufacture Papier d’Arménie<sup>®</sup> is certified by the Forest Stewardship Council, an independent international organisation to promote the responsible management of the world's forests.</h3>
+<p>Papier d’Arménie can also be used without burning it to deodorize wardrobes or drawers. Each booklet has 36 pre-cut paper strips, in twelve sheets of 3.</p>
+<p>Ceramic holder comes in assorted colours. It has a t<span>riangular base with sides of 14.5cm &amp; Dome 8cm in diameter.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>incense holders</s:tag>
+    <s:tag>Papier d&apos;Armenie</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Traditional Booklet -Green</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>PA-TR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Armenie Booklet -Blue</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PA-AR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Rose Booklet -Pink</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PA-RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Ceramic Burner</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>PA-CB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4541894918215</id>
+    <published>2020-03-24T11:24:55-03:00</published>
+    <updated>2020-03-24T11:24:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/merry-hempsters-organic-arnica-salve"/>
+    <title>Merry Hempsters Organic Arnica Salve</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Merry Hempsters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/MH-OrgArnicaDisplay.jpg?v=1585060594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merry Hempsters<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.25 - 60.00
+            <a href="https://soulscents.ca/products/merry-hempsters-organic-arnica-salve">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Merry Hempsters Organic Arnica Salve .. perfect addition to any first aid kit or use for aches, sprains, strains  &amp; bruises.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Merry Hempsters</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4541894918215</id>
+      <title>Organic Arnica Salve</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>MH-OA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4541894918215</id>
+      <title>Organic Arnica Salve Display</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>MH-OAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4499403866183</id>
+    <published>2020-02-26T15:29:44-04:00</published>
+    <updated>2020-02-26T15:29:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-tattoo-balm"/>
+    <title>Nova Scotia Fisherman Tattoo Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Tattoo.jpg?v=1582746049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New from Nova Scotia Fisherman!</p>
+<p>Safe for whole body use. Made with sustainable Nova Scotia Sea Kelp, Lavender, Lemongrass, Olive Oil, Coconut Oil, Rosehip, Aloe &amp; Vitamin E.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:tag>Tattoo Balm</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4499403866183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>NSF-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4364454756423</id>
+    <published>2019-11-20T10:05:38-04:00</published>
+    <updated>2019-11-20T10:05:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nandita-blunt-nag-champa-incense"/>
+    <title>Nandita Blunt Nag Champa Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Blunt_Nag_Champa.jpg?v=1574261581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This incense that arrived as a mistake will be on sale while supply lasts, it has a soft floral fragrance and not too strong. Each unit is 15gr.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4364454756423</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>NC-BLT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1697032044578</id>
+    <published>2019-02-03T16:12:57-04:00</published>
+    <updated>2019-02-03T16:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-buddha"/>
+    <title>Soul Scents Beeswax Candles -Buddha</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/bg-342.jpg?v=1549224895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeswax</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1697032044578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BG-342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1697015595042</id>
+    <published>2019-02-03T15:26:57-04:00</published>
+    <updated>2019-02-03T15:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-after-sun-balm"/>
+    <title>Badger After Sun Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Badger_After_Sun_Balm.png?v=1549222231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><em>Soothing After-Sun Skin Care.</em></strong><span> Badger's all-natural and organic After Sun Balm is Packed with soothing Cocoa and Shea Butters, and makes a great addition to any sun care routine. Sun, wind, salt, and sand all take a toll on skin, and After Sun Balm helps to restore the balance. Lavender and Moroccan Blue Tansy oils contribute to the delightful tropical scent and have been shown to exhibit anti-inflammatory properties, helping to soothe, cool, and relieve your dry, tight skin after sun exposure</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Badger</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1697015595042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-ASB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1668593451042</id>
+    <published>2019-01-03T15:11:43-04:00</published>
+    <updated>2019-01-03T15:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-shampoo-bar"/>
+    <title>Badger Shampoo Bar</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Badger_Shampoo_Bar.png?v=1546543008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">NEW from Badger! A Shampoo Bar that lasts as long as a 12oz bottle of shampoo. Made with 85% organic ingredients this bar is easy to travel with, perfect for both hair and body, plant based, vegan &amp; cruelty free.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badger</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1668593451042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-SHB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1366468624476</id>
+    <published>2018-07-18T16:44:12-03:00</published>
+    <updated>2018-07-18T16:44:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/singing-bowls"/>
+    <title>Singing Bowls &amp; Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/medium_singing_bowl.jpg?v=1533757696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            0.00 - 12.00
+            <a href="https://soulscents.ca/products/singing-bowls">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These hand hammered Singing Bowls are made with 7 different metals; gold, silver, copper, iron, lead, tin &amp; zinc. They are all priced and sold by weight at $100/kg. For ease of ordering they have been broken down into the following sizes and price will be determined upon what is available within that size range. I would suggest picking a size/dollar value that you are interested in and I will specify on the invoice what the specific weight is for you. If you have specific requests feel free to add a note to your order or send me an email.</p>
+<p>X-Small  300-499gr  approx. 3.5-4" diameter  Range $30 to 49</p>
+<p>Small 500-599gr  approx. 5" diameter  Range $50 to 59</p>
+<p>Medium 600-799gr  approx. 6" diameter  Range $60 to 79</p>
+<p>Large 800-899gr  approx. 7-7.5" diameter  Range $80 to 89</p>
+<p>X-Large 900gr-1.2kg  approx. 8.5-9" diameter  Range $90 to 120</p>
+<p>Mini Sticks are suitable for the X-small bowls. Small Sticks are suitable for the Small-Medium bowls. Medium Sticks are suitable for the Large+ bowls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>singing bowls</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Small 300-499gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Small 500-599gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium 600-799gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-MD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Large 800-899gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Large 900gr-1.2kg</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Mini Stick Felted</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SB-MF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Small Stick Felted</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>SB-SF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium Stick Felted</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-MDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Small Donut Cushion</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>SB-XSC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium Donut Cushion</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-MC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>6&quot; Velvet Round Cushion</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-6VC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>8&quot; Velvet Round Cushion</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>SB-8VC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

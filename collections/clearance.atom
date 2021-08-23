@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/clearance.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2021-03-04T18:57:13-04:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/6538996514887</id>
+    <published>2021-03-04T18:57:13-04:00</published>
+    <updated>2021-03-04T18:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-chill-body-spray"/>
+    <title>Yoga Potion Chill Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-chill-body-spray.jpg?v=1614898714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>CHILL Mist &amp; Body Spray</strong> works wonderfully to help promote balanced hormones, spray chest, face, thighs and belly to help alleviate hot flashes or PMS. Also great as a calming body spray throughout the day.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996514887</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538996154439</id>
+    <published>2021-03-04T18:53:58-04:00</published>
+    <updated>2021-03-04T18:53:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-meditation-body-spray"/>
+    <title>Yoga Potion Meditation Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-meditation-spray.jpg?v=1614898455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>MEDITATION Mist &amp; Body Spray</strong> is formulated to be calming, grounding &amp; relaxing. Great for a massage space, bed time or to help create a calm around you before yoga or meditation.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996154439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-MBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538995957831</id>
+    <published>2021-03-04T18:52:17-04:00</published>
+    <updated>2021-03-04T18:52:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-clean-freak-spray"/>
+    <title>Yoga Potion Clean Freak Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-clean-freak-spray.jpg?v=1614898556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">CLEAN FREAK</strong> is anti-fungal, anti-bacterial and perfect for yoga mats, massage therapists, camping, pet areas &amp; so much more!<br></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538995957831</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1333640396892</id>
+    <published>2018-06-14T13:26:01-03:00</published>
+    <updated>2018-06-14T13:26:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/statues"/>
+    <title>Statues</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/S-027.jpg?v=1597852323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.00 - 40.00
+            <a href="https://soulscents.ca/products/statues">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>statues</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Brass Ganesh 3.25&quot;</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>S-027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Sakyamuni Buddha 3&quot;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>S-092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Brass Ganesh 1.75&quot;</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>S-121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Copper &amp; Brass Buddha 6&quot;</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/745960931420</id>
+    <published>2018-04-23T19:56:12-03:00</published>
+    <updated>2018-04-23T19:56:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-metal-ceramic-diffusers"/>
+    <title>Soapstone, Metal &amp; Ceramic Diffusers</title>
+    <s:type>Diffusers</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-711.jpg?v=1625754125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Diffusers<br>
+        <strong>Price: </strong>
+            7.25 - 22.10
+            <a href="https://soulscents.ca/products/soapstone-metal-ceramic-diffusers">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These diffusers are all handmade by Fair Trade cottage industry partners in India and Nepal. They are made from either Soapstone, Metal or Ceramic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Diffusers</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>*Currently Unavailable* OM Mini</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Owl Diffuser</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>H-097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Lotus Inlay</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>H-846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Double Flower</title>
+      <s:price currency="CAD">12.65</s:price>
+      <s:sku>H-608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Magic Bean Stalk</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-711</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Sun Face Vine</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Deep Leaf</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>H-881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Vine</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>H-882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Leaf Etched</title>
+      <s:price currency="CAD">15.25</s:price>
+      <s:sku>H-903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Flower Etched</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku>H-904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Tree of Life</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>H-917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>*Unavailable* Iron Goddess</title>
+      <s:price currency="CAD">15.75</s:price>
+      <s:sku>H-234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Green Star</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Burgundy Raindrop</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Periwinkle Star</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Two Tone Mocha</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>H-240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/18038390810</id>
+    <published>2017-08-07T14:50:30-03:00</published>
+    <updated>2017-08-07T14:50:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/rare-essence-perfumes"/>
+    <title>Rare Essence Perfumes</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Rare Essence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/perfume-amani-roll-on.jpg?v=1502128721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rare Essence<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful roll-on perfumes are made from 100% essential oils in 100% organic jojoba oil. Hand blended in small batches by master perfumers, these perfumes have no irritating synthetics or manufactured fragrances. </p>
+<p>Each perfume is also enhanced with vibrational flower essences which work with your body's energy to influence emotional, physical &amp; mental well-being.</p>
+<p>Each Perfume is 10ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>perfume</s:tag>
+    <s:tag>Rare Essence</s:tag>
+    <s:tag>Roll-ons</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Amani</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Beleza</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Bujari</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Divino</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Joie</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Lilura</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Vivace</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18038390810</id>
+      <title>Ziva</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>26119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/10039695629</id>
+    <published>2017-05-17T15:08:12-03:00</published>
+    <updated>2017-05-17T15:08:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/shoyeido-gift-sets"/>
+    <title>Shoyeido Gift Sets</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/SH-PSG.jpg?v=1572883454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            13.00 - 13.95
+            <a href="https://soulscents.ca/products/shoyeido-gift-sets">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amethyst Gift Set with wooden incense holder, includes: One 30-stick package of Amethyst incense &amp; one laser-etched Cherry Wood Incense Holder</p>
+<p>NEW Gift Sets now in stock:</p>
+<p>﻿﻿Palo Santo Gift Set &amp; Patchouli Gift Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift sets</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Patchouli Gift Set</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>SH-PAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Palo Santo Gift Set</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>SH-PSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Amethyst Gift Set</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>SH-AMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Eternal Treasure Gift Set</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>SH-ETG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

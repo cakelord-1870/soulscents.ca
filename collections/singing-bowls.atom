@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/singing-bowls.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2018-07-18T16:44:12-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/1366468624476</id>
+    <published>2018-07-18T16:44:12-03:00</published>
+    <updated>2018-07-18T16:44:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/singing-bowls"/>
+    <title>Singing Bowls &amp; Accessories</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/medium_singing_bowl.jpg?v=1533757696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            0.00 - 12.00
+            <a href="https://soulscents.ca/products/singing-bowls">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These hand hammered Singing Bowls are made with 7 different metals; gold, silver, copper, iron, lead, tin &amp; zinc. They are all priced and sold by weight at $100/kg. For ease of ordering they have been broken down into the following sizes and price will be determined upon what is available within that size range. I would suggest picking a size/dollar value that you are interested in and I will specify on the invoice what the specific weight is for you. If you have specific requests feel free to add a note to your order or send me an email.</p>
+<p>X-Small  300-499gr  approx. 3.5-4" diameter  Range $30 to 49</p>
+<p>Small 500-599gr  approx. 5" diameter  Range $50 to 59</p>
+<p>Medium 600-799gr  approx. 6" diameter  Range $60 to 79</p>
+<p>Large 800-899gr  approx. 7-7.5" diameter  Range $80 to 89</p>
+<p>X-Large 900gr-1.2kg  approx. 8.5-9" diameter  Range $90 to 120</p>
+<p>Mini Sticks are suitable for the X-small bowls. Small Sticks are suitable for the Small-Medium bowls. Medium Sticks are suitable for the Large+ bowls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>singing bowls</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Small 300-499gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Small 500-599gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium 600-799gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-MD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Large 800-899gr</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Large 900gr-1.2kg</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Mini Stick Felted</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SB-MF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Small Stick Felted</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>SB-SF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium Stick Felted</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-MDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>X-Small Donut Cushion</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>SB-XSC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>Medium Donut Cushion</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-MC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>6&quot; Velvet Round Cushion</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>SB-6VC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1366468624476</id>
+      <title>8&quot; Velvet Round Cushion</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>SB-8VC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

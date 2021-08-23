@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/smudges.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2016-09-13T13:39:00-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/7926963841</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/white-sage-baby-smudge"/>
+    <title>White Sage Baby Smudge</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/white-sage-baby-smudge-unpackaged.jpg?v=1473786268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            3.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Sage Smudge Bundles 3.5″ (unpackaged).</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926963841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.60</s:price>
+      <s:sku>NS-MW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926905601</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/desert-sage-baby-smudge"/>
+    <title>Desert Sage Baby Smudge</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Sage Spirit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/desert-sage-baby-smudge-unpackaged.jpg?v=1473786064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sage Spirit<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Desert Sage Smudge Bundles (unpackaged). Use for the purposes of cleansing, invoking protection and initiating a rising aroma to carry prayers to the Sacred Realms.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926905601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.95</s:price>
+      <s:sku>SS-BS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926800321</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/white-sage-lakota-15"/>
+    <title>Loose Sage with small shell</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Sage Spirit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sage_Spirit_New.jpg?v=1540491696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sage Spirit<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pick from White Sage or New Mexico Desert Sage. Each comes with a small shell for burning the sage and makes a great gift item.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sage Spirit</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926800321</id>
+      <title>*UNAVAILABLE*New Mexico Desert Sage &amp; Shell</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SS-DC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926800321</id>
+      <title>*UNAVAILABLE*White Sage &amp; Shell</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SS-WC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926731073</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/supreme-brand-california-white-sage-smudge"/>
+    <title>Supreme Brand California White Sage Smudge</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Supreme_Brand_California_White_Sage_Smudge_9_inch.jpg?v=1473785421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">9" White Sage Bundles</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926731073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>SS-CWS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926712577</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/palo-santo"/>
+    <title>Palo Santo</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Global Shaman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Palo_Santo_for_Sacred_Smoke.jpg?v=1593441186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Shaman<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            2.00 - 16.35
+            <a href="https://soulscents.ca/products/palo-santo">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An aromatic wood used by Shamans for thousands of years for healing, purifying and cleansing. Sustainably harvested from fallen trees in Ecuador and Peru.<br></p>
+<p><span style="text-decoration: underline;"><strong>NEW: </strong></span> Palo Santo Incense Sticks &amp; Palo Santo Anointing Oil Roll on, 8ml/.27floz. This roll on is made with Jojoba Oil &amp; Palo Santo Essential Oil</p>
+<p>Palo Santo Essential Oil, distilled from sustainably harvested palo santo wood. </p>
+<p>The sticks are about 4" long, and 5 pieces in a package.</p>
+<p>The chips are 10gr. each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>palo santo</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Global Shaman Palo Santo Sticks 5pcs</title>
+      <s:price currency="CAD">5.85</s:price>
+      <s:sku>I-213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Supreme Brand Palo Santo Chips 10gr</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>S-PS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Supreme Brand Palo Santo 2&quot; Stick 10gr</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>S-P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Supreme Brand Palo Santo Cones 6pk</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>S-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Supreme Brand Palo Santo 5&quot; Stick 25gr</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>S-P5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Palo Santo Anointing Roll On</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>F-425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Palo Santo Essentail Oil 8ml</title>
+      <s:price currency="CAD">16.35</s:price>
+      <s:sku>F-236</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926712577</id>
+      <title>Triloka Palo Santo Incense</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>I-430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926681601</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/kinnick-kinnick-ceremonial-smoking-mix"/>
+    <title>Kinnick Kinnick - Ceremonial Smoking Mix</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Kinnick Kinnick</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sage_Spirit_Kinnick_Kinnick.jpg?v=1473957677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kinnick Kinnick<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For Sacred Smoke. No tobacco.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kinnick Kinnick</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926681601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>SS-KK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926672385</id>
+    <published>2016-09-13T13:39:00-03:00</published>
+    <updated>2016-09-13T13:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/sweetgrass-braid"/>
+    <title>Sweetgrass Braid</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sweetgrass_Braid.jpg?v=1473784869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>My regular supplier for Sweetgrass Braids is now sold out until the next harvest, Mid September.</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sweetgrass</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926672385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>*Currently Unavailable*</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850305985</id>
+    <published>2016-09-08T18:55:00-03:00</published>
+    <updated>2016-09-08T18:55:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/sage-spirit-smudge-bundles-large"/>
+    <title>Sage Spirit Smudge Bundles: Large</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Sage Spirit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sage-Spirit-Sage-Smudge-large.jpeg?v=1473372053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sage Spirit<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for the purposes of cleansing, invoking protection and initiating a rising aroma to carry prayers to the Sacred Realms.</p>
+<p>7" x 3"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sage Spirit</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage-Cedar</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-SC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-SG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage-Sweetgrass</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-SS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage-Copal</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-CS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage-Lavender</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850305985</id>
+      <title>Sage-Pinion Pine</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>SS-SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850286465</id>
+    <published>2016-09-08T18:55:00-03:00</published>
+    <updated>2016-09-08T18:55:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/sage-spirit-smudge-bundles-small"/>
+    <title>Sage Spirit Smudge Bundles: Small</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Sage Spirit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sage-Spirit-Sage-Smudge-bundles.jpg?v=1473371963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sage Spirit<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            3.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for the purposes of cleansing, invoking protection and initiating a rising aroma to carry prayers to the Sacred Realms.</p>
+<p>5" x 3"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sage Spirit</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage-Cedar</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-SCM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-SGM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage-Sweetgrass</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-SSM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage-Copal</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-CSM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage-Lavender</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-SLM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850286465</id>
+      <title>Sage-Pinion Pine</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>SS-SPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850150913</id>
+    <published>2016-09-08T18:47:00-03:00</published>
+    <updated>2016-09-08T18:47:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/global-shaman-large-smudges"/>
+    <title>Global Shaman Large Smudges</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Global Shaman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/global-shaman-large-smudges.jpg?v=1473469511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Shaman<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sustainably harvested by a Native American reservation cooperative.</p>
+<p>Approx 8".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global Shaman</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850150913</id>
+      <title>White Sage</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>I-230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850150913</id>
+      <title>Cedar</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>I-248</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850150913</id>
+      <title>Black Sage</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>I-255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850150913</id>
+      <title>Blue Sage</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>I-256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850150913</id>
+      <title>Desert Sage</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>I-265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850094401</id>
+    <published>2016-09-08T18:44:00-03:00</published>
+    <updated>2016-09-08T18:44:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/global-shaman-medium-smudges"/>
+    <title>Global Shaman Medium Smudges</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Global Shaman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/global-shaman-medium-smudges.jpg?v=1473517857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Shaman<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sustainably harvested by a Native American reservation cooperative.</p>
+<p>Approx 5".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global Shaman</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850094401</id>
+      <title>*Out of Stock* White Sage</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>I-231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850094401</id>
+      <title>Mountain Sage/Cedar/Sweetgrass</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>I-234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850094401</id>
+      <title>Mountain Sage/Pine/Perfume Sage</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>I-235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850094401</id>
+      <title>Mountain Sage/Perfume Sage/Sweetgrass</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>I-236</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850053889</id>
+    <published>2016-09-08T18:39:00-03:00</published>
+    <updated>2016-09-08T18:39:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/global-shaman-mini-smudge"/>
+    <title>Global Shaman Mini Smudge (3 pack)</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Global Shaman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/global-shaman-mini-smudges.jpg?v=1473457422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Shaman<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sustainably harvested by a Native American reservation cooperative.</p>
+<p>Approx 3.5", 3 pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global Shaman</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850053889</id>
+      <title>Sage/Cedar/Lavender 3 pack</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>I-221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850053889</id>
+      <title>Mountain Sage 3 pack</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>I-222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850053889</id>
+      <title>Yerba Santa 3 pack</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>I-223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850053889</id>
+      <title>White Sage 3 pack</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>I-232</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850053889</id>
+      <title>Assorted 3 pack</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>I-233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7849826817</id>
+    <published>2016-09-08T18:27:00-03:00</published>
+    <updated>2016-09-08T18:27:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/global-shaman-baby-smudge"/>
+    <title>Global Shaman Baby Smudge</title>
+    <s:type>Smudges</s:type>
+    <s:vendor>Global Shaman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-238.jpg?v=1475092250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Global Shaman<br>
+        <strong>Type: </strong>Smudges<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sustainably harvested by a Native American reservation cooperative.</p>
+<p>Approx 4", single. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global Shaman</s:tag>
+    <s:tag>Smudges</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7849826817</id>
+      <title>White Sage</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>I-238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7849826817</id>
+      <title>Cedar</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>I-240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7849826817</id>
+      <title>Black Sage</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>I-241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7849826817</id>
+      <title>Blue Sage</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>I-242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7849826817</id>
+      <title>Desert Sage</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>I-243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/product-holders.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2017-09-14T11:23:22-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/101575393306</id>
+    <published>2017-09-14T11:23:22-03:00</published>
+    <updated>2017-09-14T11:23:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-incense-display"/>
+    <title>Triloka Incense Display</title>
+    <s:type></s:type>
+    <s:vendor>Soul Scents Wholesale Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/D-018.jpg?v=1505399328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents Wholesale Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These durable Cardboard Displays are perfect for showing of your collection of Triloka Incense. </p>
+<p>All displays are free with purchase of enough incense to fill the display, 10 units per slot. </p>
+<p>Ask for details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/101575393306</id>
+      <title>8 Slot -Two Tier</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>D-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101575393306</id>
+      <title>8 Slot -One Tier</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>D-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101575393306</id>
+      <title>12 Slot -Two Tier</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>D-017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101575393306</id>
+      <title>4 Slot -Two Tier</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>D-024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101575393306</id>
+      <title>Metal Spinner Display</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>D-028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/18041536538</id>
+    <published>2017-08-07T15:10:21-03:00</published>
+    <updated>2017-08-07T15:10:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/rare-essence-aromatherapy-roll-on-display"/>
+    <title>Rare Essence Displays</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Rare Essence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/RE_Inhaler_Display.png?v=1523639440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rare Essence<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            265.00 - 1000.00
+            <a href="https://soulscents.ca/products/rare-essence-aromatherapy-roll-on-display">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Displays will help to showcase and feature this beautiful line of products. Please allow 2 weeks for delivery as they may not always be in stock for me.</p>
+<p><strong>Aromatherapy Roll On Display:</strong> Holds 6 of each Aromatherapy Roll on plus testers. </p>
+<p><strong>Inhaler Display:</strong> Holds 6 of each Inhaler Scent</p>
+<p><strong>Perfume Display:</strong> Includes 6 of each Scent plus a tester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Inhalers</s:tag>
+    <s:tag>Rare Essence</s:tag>
+    <s:tag>Roll-ons</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/18041536538</id>
+      <title>Inhaler Display</title>
+      <s:price currency="CAD">265.00</s:price>
+      <s:sku>RE-IND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18041536538</id>
+      <title>Aromatherapy Roll On Display</title>
+      <s:price currency="CAD">530.00</s:price>
+      <s:sku>RE-RODSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/18041536538</id>
+      <title>Roll On Perfume Display</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku>RE-PDISP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7930906753</id>
+    <published>2016-09-13T19:24:00-03:00</published>
+    <updated>2016-09-13T19:24:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/10-slot-candle-plate-wooden-display"/>
+    <title>6 Slot Metal Candle Plate  Display</title>
+    <s:type>Candle &amp; Tea Light Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/D-031.jpg?v=1535649989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Candle &amp; Tea Light Holders<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product SKU</strong>: D-031</p>
+<p>6 slot metal candle plate display holder; purchase 6 incense or candle plates and request it for free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7930906753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>D-031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926256385</id>
+    <published>2016-09-13T11:53:00-03:00</published>
+    <updated>2016-09-13T11:53:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-wooden-boat-floor-display"/>
+    <title>Nova Scotia Fisherman Wooden Boat Floor Display</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nova_Scotia_Fisherman_Wooden_Boat_Floor_Display.jpg?v=1473782241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are 2 sizes available and can come pre-filled or custom filled.</p>
+<p>Small boat is about $599</p>
+<p>Large boat is about $799</p>
+<p>Please ask us for details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926256385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>NSF-DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917948673</id>
+    <published>2016-09-13T00:25:00-03:00</published>
+    <updated>2016-09-13T00:25:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/display-for-shoyeido-pottery-incense-holders"/>
+    <title>Shoyeido Displays</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_2016_Wholesale_Pricelist__Page_14_Image_0004.jpg?v=1473737255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            142.00 - 620.00
+            <a href="https://soulscents.ca/products/display-for-shoyeido-pottery-incense-holders">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>Pottery Display:</strong> </span>12 piece display for Shoyeido wheel, bowl and leaf incense holders. Pottery pieces are sold separately, Individually these holders are $11.85 each. Order 12 pieces of pottery and receive the display no charge.</p>
+<p><span style="text-decoration: underline;"><strong>Mini Scent Station Display: </strong></span> Contains the following 86 units of incense: Jewel Series (5 units of each scent), Daily Series (7 units of each scent). Measure 14.75 x 14.5 x 7 inches.</p>
+<p><span style="text-decoration: underline;"><strong>Full Scent Station Display:</strong></span>  Contains the following 156 units of incense: Daily Series (6 units of each), Jewel Series (6 units of each), Overtones Series (6 units of each), Magnifiscents Series (4 units of each), Zen Series (6 units of each). Measures 20 x 20 x 9.5 inches. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917948673</id>
+      <title>Mini Scent Station</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku>SH-DS3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917948673</id>
+      <title>Full Scent Station</title>
+      <s:price currency="CAD">620.00</s:price>
+      <s:sku>SH-DS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917948673</id>
+      <title>Pottery Display</title>
+      <s:price currency="CAD">142.00</s:price>
+      <s:sku>SH-PDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7914721537</id>
+    <published>2016-09-12T19:17:00-03:00</published>
+    <updated>2016-09-12T19:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-wood-tray-for-incense-holders"/>
+    <title>Triloka Wood Tray for Incense Holders</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Triloka_Wood_Tray_for_Incense_Holders.jpg?v=1473718823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Request display free with $65 or more of incense holders.</p>
+<p>Measures 12.5” x12” x 2.5”.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7914721537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D-006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

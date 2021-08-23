@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/candle-tea-light-holders.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2016-09-13T19:24:00-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/7930906753</id>
+    <published>2016-09-13T19:24:00-03:00</published>
+    <updated>2016-09-13T19:24:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/10-slot-candle-plate-wooden-display"/>
+    <title>6 Slot Metal Candle Plate  Display</title>
+    <s:type>Candle &amp; Tea Light Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/D-031.jpg?v=1535649989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Candle &amp; Tea Light Holders<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product SKU</strong>: D-031</p>
+<p>6 slot metal candle plate display holder; purchase 6 incense or candle plates and request it for free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7930906753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>D-031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7925411137</id>
+    <published>2016-09-13T11:24:00-03:00</published>
+    <updated>2016-09-13T11:24:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-recycled-metal-candle-plates"/>
+    <title>Soapstone &amp; Recycled Metal Candle Plates</title>
+    <s:type>Candle &amp; Tea Light Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-214.jpg?v=1525801964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Candle &amp; Tea Light Holders<br>
+        <strong>Price: </strong>
+            0.01 - 8.25
+            <a href="https://soulscents.ca/products/soapstone-recycled-metal-candle-plates">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A series of candle plates in soapstone and recycled metal.</p>
+<p>Display available with purchase of sufficient product to fill it.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>Asta Mangala 4.5&quot; Metal</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>H-216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>Om (Recycled Metal)</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>H-571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>Concentric</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>H-771</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>Display for Candle Plates</title>
+      <s:price currency="CAD">0.01</s:price>
+      <s:sku>D-004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>*Unavailable* Mangala 6&quot; Metal</title>
+      <s:price currency="CAD">8.25</s:price>
+      <s:sku>H-214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925411137</id>
+      <title>Zen Square 4&quot; Metal Candle Plate</title>
+      <s:price currency="CAD">6.30</s:price>
+      <s:sku>H-226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7925267393</id>
+    <published>2016-09-13T11:17:00-03:00</published>
+    <updated>2016-09-13T11:17:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-tea-light-holders"/>
+    <title>Tea Light Holders</title>
+    <s:type>Candle &amp; Tea Light Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-827.jpg?v=1556037751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Candle &amp; Tea Light Holders<br>
+        <strong>Price: </strong>
+            3.00 - 10.95
+            <a href="https://soulscents.ca/products/soapstone-tea-light-holders">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925267393</id>
+      <title>Glass Star Engraved</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>H-417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925267393</id>
+      <title>Lotus Petals</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>H-827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7925267393</id>
+      <title>*Unavailable* 3 Stone Stacked 3&quot;tall</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>H-007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

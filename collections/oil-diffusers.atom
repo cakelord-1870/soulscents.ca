@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/oil-diffusers.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2018-04-23T19:56:12-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/745960931420</id>
+    <published>2018-04-23T19:56:12-03:00</published>
+    <updated>2018-04-23T19:56:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-metal-ceramic-diffusers"/>
+    <title>Soapstone, Metal &amp; Ceramic Diffusers</title>
+    <s:type>Diffusers</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-711.jpg?v=1625754125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Diffusers<br>
+        <strong>Price: </strong>
+            7.25 - 22.10
+            <a href="https://soulscents.ca/products/soapstone-metal-ceramic-diffusers">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These diffusers are all handmade by Fair Trade cottage industry partners in India and Nepal. They are made from either Soapstone, Metal or Ceramic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Diffusers</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>*Currently Unavailable* OM Mini</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Owl Diffuser</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>H-097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Lotus Inlay</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>H-846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Double Flower</title>
+      <s:price currency="CAD">12.65</s:price>
+      <s:sku>H-608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Magic Bean Stalk</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-711</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Sun Face Vine</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>H-712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Deep Leaf</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>H-881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Vine</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>H-882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Leaf Etched</title>
+      <s:price currency="CAD">15.25</s:price>
+      <s:sku>H-903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Black Flower Etched</title>
+      <s:price currency="CAD">13.75</s:price>
+      <s:sku>H-904</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Tree of Life</title>
+      <s:price currency="CAD">22.10</s:price>
+      <s:sku>H-917</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>*Unavailable* Iron Goddess</title>
+      <s:price currency="CAD">15.75</s:price>
+      <s:sku>H-234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Green Star</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Burgundy Raindrop</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Periwinkle Star</title>
+      <s:price currency="CAD">8.75</s:price>
+      <s:sku>H-186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/745960931420</id>
+      <title>Two Tone Mocha</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>H-240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/accessories.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2018-06-14T13:26:01-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/1333640396892</id>
+    <published>2018-06-14T13:26:01-03:00</published>
+    <updated>2018-06-14T13:26:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/statues"/>
+    <title>Statues</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/S-027.jpg?v=1597852323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.00 - 40.00
+            <a href="https://soulscents.ca/products/statues">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>statues</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Brass Ganesh 3.25&quot;</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>S-027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Sakyamuni Buddha 3&quot;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>S-092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Brass Ganesh 1.75&quot;</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>S-121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/1333640396892</id>
+      <title>Copper &amp; Brass Buddha 6&quot;</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/394315628585</id>
+    <published>2018-01-04T15:36:30-04:00</published>
+    <updated>2018-01-04T15:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-wall-hanging-om-wood-or-brass"/>
+    <title>Triloka Wall Hanging OM</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-333.jpg?v=1515094911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            7.00 - 18.95
+            <a href="https://soulscents.ca/products/triloka-wall-hanging-om-wood-or-brass">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">*NEW* Decorative Wall hangings are handmade from either Wood or Brass.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decorative OM</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/394315628585</id>
+      <title>Brass OM 3.5&quot;high</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>H-333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/394315628585</id>
+      <title>Brass OM 6.25&quot;high</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>H-336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/394315628585</id>
+      <title>Wood OM 7.5&quot;high</title>
+      <s:price currency="CAD">10.15</s:price>
+      <s:sku>H-334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7912707905</id>
+    <published>2016-09-12T17:01:00-03:00</published>
+    <updated>2016-09-12T17:01:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-handmade-pillow-covers-from-india"/>
+    <title>Triloka Handmade Textiles</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/T-033.jpg?v=1520002450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.95 - 7.00
+            <a href="https://soulscents.ca/products/triloka-handmade-pillow-covers-from-india">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drawstring Bags made of silk &amp; rayon. Colours are assorted &amp; size listed is for the width of the bag. Prices are per bag.</p>
+<p>These attractive pillow covers fit a 16” x16” pillow.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>textiles</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Whimsical Flower 2.75&quot;wide</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>T-012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Jewel Bag 3&quot;wide</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>T-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Chrysanthemum Bag 4.5&quot;wide</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>T-033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Red</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>T-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Blue</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>T-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Purple</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>T-037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7912707905</id>
+      <title>Spice</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>T-040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

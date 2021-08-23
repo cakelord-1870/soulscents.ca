@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/resins-burners.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2018-05-10T14:57:23-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/777643229276</id>
+    <published>2018-05-10T14:57:23-03:00</published>
+    <updated>2018-05-10T14:57:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/antiqued-brass-bowls"/>
+    <title>Antiqued Brass Bowls</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Soul Scents Wholesale Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Brass_resin_Bowl.jpg?v=1590674084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents Wholesale Inc.<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            20.00 - 30.00
+            <a href="https://soulscents.ca/products/antiqued-brass-bowls">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Antiqued Brass Bowls are perfect for burning resins, they are solid with plenty of room for sand or another insulator below your charcoal. Can also be used for stick incense. </p>
+<p>Small is 4.25" across</p>
+<p>Medium is 5" across</p>
+<p>Large is 6" across</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>incense holders</s:tag>
+    <s:tag>Resin Burners</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/777643229276</id>
+      <title>Small 4.25&quot;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/777643229276</id>
+      <title>Medium 4.75&quot;</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>AB-MD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/777643229276</id>
+      <title>Large 5&quot;</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>AB-LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/101513003034</id>
+    <published>2017-09-14T10:26:11-03:00</published>
+    <updated>2017-09-14T10:26:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-resin-burners"/>
+    <title>Soapstone Resin Burners</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Soul Scents Wholesale Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Resin_Burner_Natural.jpg?v=1606834676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents Wholesale Inc.<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            2.00 - 16.50
+            <a href="https://soulscents.ca/products/soapstone-resin-burners">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Soapstone Resin Burners come with a screen to burn resins, diffuser bowls for the small resin burners can be bought separately. </p>
+<p>Small approx. 2.5" wide x 2.5" tall<br></p>
+<p>Medium approx. 4" wide x 3.5" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://soulscents.ca/products/101513003034</id>
+      <title>Natural</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>RB-NAT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101513003034</id>
+      <title>Diffuser Bowl</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>RB-DB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101513003034</id>
+      <title>Medium Natural</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku>RB-MDN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/18017943578</id>
+    <published>2017-08-07T13:31:34-03:00</published>
+    <updated>2017-08-07T13:31:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-himalayan-herbal-dhoop-coals"/>
+    <title>Triloka Himalayan Herbal Dhoop Coals</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-629.jpg?v=1502123671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long burning natural tablets, an alternative to charcoal. Used for burning herbs or resins.</p>
+<p>6 coals per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/18017943578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>I-629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7913110785</id>
+    <published>2016-09-12T17:18:00-03:00</published>
+    <updated>2016-09-12T17:18:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-resin-cups"/>
+    <title>Triloka Resin Cups</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/triloka-resin-cups-with-stand.jpg?v=1473711961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.85 - 5.95
+            <a href="https://soulscents.ca/products/triloka-resin-cups">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 small charcoal cups already combined with either Frankincense or Myrrh.</p>
+<p>Includes a folding metal stand.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913110785</id>
+      <title>Frankincense</title>
+      <s:price currency="CAD">4.85</s:price>
+      <s:sku>I-616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913110785</id>
+      <title>Myrrh</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>I-617</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7913034305</id>
+    <published>2016-09-12T17:18:00-03:00</published>
+    <updated>2016-09-12T17:18:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-resin-incense"/>
+    <title>Triloka Resin Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-633.jpg?v=1568722781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.55 - 6.85
+            <a href="https://soulscents.ca/products/triloka-resin-incense">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose between Amber, Frankincense, Myrrh, White Copal </p>
+<p>Loban Resin comes from the Styrax benzoin tree and is said to promote positive energy &amp; relaxation. </p>
+<p><strong>NEW: Frankincense, Guggul &amp; Cinnamon Blend</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>Frankincense-Guggul-Cinnamon Blend</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>I-610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>Amber (10gr)</title>
+      <s:price currency="CAD">6.85</s:price>
+      <s:sku>I-634</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>Frankincense (30g)</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>I-603</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>Myrrh (30gr)</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>I-604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>Loban (30gm)</title>
+      <s:price currency="CAD">6.85</s:price>
+      <s:sku>I-633</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7913034305</id>
+      <title>*Unavailable* White Copal 30gm</title>
+      <s:price currency="CAD">2.55</s:price>
+      <s:sku>I-606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7850487745</id>
+    <published>2016-09-08T19:10:00-03:00</published>
+    <updated>2016-09-08T19:10:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/three-kings-charcoal-tablets"/>
+    <title>Three Kings Charcoal Tablets</title>
+    <s:type>Charcoal Tablets</s:type>
+    <s:vendor>Three Kings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/three-kings-charcoal-tablets.jpg?v=1473372813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Three Kings<br>
+        <strong>Type: </strong>Charcoal Tablets<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For burning incense resin. Made in Holland.</p>
+<p>Each Box has 10 rolls, each roll has 10 tablets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850487745</id>
+      <title>10 Rolls</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>I-632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

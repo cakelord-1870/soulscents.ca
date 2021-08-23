@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/candles.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2019-02-03T16:12:57-04:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/1697032044578</id>
+    <published>2019-02-03T16:12:57-04:00</published>
+    <updated>2019-02-03T16:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-buddha"/>
+    <title>Soul Scents Beeswax Candles -Buddha</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/bg-342.jpg?v=1549224895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeswax</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1697032044578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>BG-342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/300788121641</id>
+    <published>2017-11-29T13:27:42-04:00</published>
+    <updated>2017-11-29T13:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/rare-essence-spa-candles"/>
+    <title>Rare Essence Spa Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Rare Essence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Spa_hope.jpg?v=1629310720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rare Essence<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> These beautiful Spa Candles are set in a frosted glass and are made with 100% pure soy wax and 100% pure Essential Oils with an all cotton wick. </span></p>
+<p><span>Approximate burn time 40 hours   7.5 oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>candles</s:tag>
+    <s:tag>Rare Essence</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/300788121641</id>
+      <title>Hope</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>10008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/300788121641</id>
+      <title>Love</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>10005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/300788121641</id>
+      <title>Refresh</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>10006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/124598452250</id>
+    <published>2017-09-25T14:19:31-03:00</published>
+    <updated>2017-09-25T14:19:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candle-drip-pillar"/>
+    <title>Soul Scents Beeswax Candle -Drip Pillar</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/bg-505.jpg?v=1506360179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            12.00 - 30.00
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candle-drip-pillar">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p><strong>NEW Drip Candles! Available in 3 sizes: </strong></p>
+<p><strong>Mini 2 3/8 x 4.24"      Medium  2 3/8 x 8"    Tall  2 3/8 x 11.5" </strong></p>
+<p> Two Sizes: Small: 3" x 4.5"   &amp;  Large: 3.5" x 6"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeswax</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/124598452250</id>
+      <title>4.5 inch</title>
+      <s:price currency="CAD">15.25</s:price>
+      <s:sku>BG-505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124598452250</id>
+      <title>6 inch</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>BG-506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124598452250</id>
+      <title>Mini 4.25&quot;</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>BG-516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124598452250</id>
+      <title>Medium 8&quot;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>BG-515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124598452250</id>
+      <title>Tall 11.5&quot;</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>BG-514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/124398403610</id>
+    <published>2017-09-25T12:30:52-03:00</published>
+    <updated>2017-09-25T12:30:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/rare-essence-travel-tin-candles"/>
+    <title>Rare Essence Travel Tin Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Rare Essence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Tin_awaken.jpg?v=1506353765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rare Essence<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Travel Tin Candles are made with 100% GMO free soy wax and 100% pure Essential Oils with an all cotton wick. Each tin is made from recycled metal. Great for a small space, or to take on the road!</p>
+<p>Approx. burn time 20 hours. <strong>4oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Awaken</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Clarity</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Dream</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Hope</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Love</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Meditation</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Passion</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Peace</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Refresh</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/124398403610</id>
+      <title>Uplifting</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>31102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926612033</id>
+    <published>2016-09-13T13:32:00-03:00</published>
+    <updated>2016-09-13T13:32:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-chakra-sets"/>
+    <title>Soul Scents Beeswax Candles - Chakra Sets</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_Chakra_Set_7_pack_coloured_Hanukkah.jpg?v=1473784431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            5.75 - 22.00
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candles-chakra-sets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="tab-switch__content" data-content="desc">
+<div class="product-description rte" itemprop="description">
+<p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeswax</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926612033</id>
+      <title>Coloured Tealights (7 pack)</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku>BGCH-7TL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926612033</id>
+      <title>Coloured Hanukkah (7 pack)</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>BGCH-7HK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926612033</id>
+      <title>Coloured Votive Set (9 pack)</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>BGCH-9LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926505409</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-1oz-bar"/>
+    <title>Soul Scents Beeswax - 1oz Bar</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_-_1_ounce_bar.jpg?v=1473783605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p>We do not stock these candles but instead pick them up freshly made. We therefore need approximately one week as a turnaround time, before they are ready to be shipped.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926505409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.20</s:price>
+      <s:sku>BG-350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926474113</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-tealights"/>
+    <title>Soul Scents Beeswax Candles - Tealights</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_Tealight_12_pack.JPG?v=1473783412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            6.90 - 17.25
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candles-tealights">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles. </p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p>We keep minimal stock of these candles and order as needed. Deliveries are typically dropped off to us on Friday, so if you get your order in by Wednesday I can usually have it out to you later that week. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926474113</id>
+      <title>Tealight (6 pack)</title>
+      <s:price currency="CAD">6.90</s:price>
+      <s:sku>BG-778-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926474113</id>
+      <title>Tealight (12 pack)</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>BG-778-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926474113</id>
+      <title>Tealight (15 pack)</title>
+      <s:price currency="CAD">17.25</s:price>
+      <s:sku>BG-778-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926453313</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-smooth-pillars"/>
+    <title>Soul Scents Beeswax Candles - Smooth Pillars</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_Smooth_Pillars.jpg?v=1473783217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            11.70 - 32.00
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candles-smooth-pillars">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beeswax</s:tag>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926453313</id>
+      <title>3&quot; Smooth Pillar</title>
+      <s:price currency="CAD">11.70</s:price>
+      <s:sku>BG-500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926453313</id>
+      <title>4&quot; Smooth Pillar</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku>BG-501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926453313</id>
+      <title>5&quot; Smooth Pillar</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>BG-502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926453313</id>
+      <title>6&quot; Smooth Pillar</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>BG-503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926453313</id>
+      <title>9&quot; Smooth Pillar</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>BG-504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926413249</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-tapered-pairs"/>
+    <title>Soul Scents Beeswax Candles - Tapered Pairs</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_Taper_Pair_6.jpg?v=1473782967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            4.00 - 6.70
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candles-tapered-pairs">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>6&quot; Taper Pair</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>BG-400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>8&quot; Taper Pair</title>
+      <s:price currency="CAD">4.70</s:price>
+      <s:sku>BG-395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>10&quot; Taper Pair</title>
+      <s:price currency="CAD">5.35</s:price>
+      <s:sku>BG-390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>10 &amp; Half&quot; Obelisk Taper Pair</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>BG-742</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>10&quot; Colonial Taper Pair</title>
+      <s:price currency="CAD">6.70</s:price>
+      <s:sku>BG-340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926413249</id>
+      <title>12&quot; Taper Pair</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>BG-385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926392513</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soul-scents-beeswax-candles-votive-large"/>
+    <title>Soul Scents Beeswax Candles - Votives</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_Votive_Large.jpg?v=1473782890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            1.80 - 2.50
+            <a href="https://soulscents.ca/products/soul-scents-beeswax-candles-votive-large">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p>Large Votive: 1.75" x 2"</p>
+<p>Small Votive: 1.5" x 1.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926392513</id>
+      <title>Small Votive</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>BG-782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926392513</id>
+      <title>Large Votive</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>BG-320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7543824257</id>
+    <published>2016-08-22T23:49:00-03:00</published>
+    <updated>2016-08-22T23:49:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/bee-glo-beeswax-18-birthday-candles"/>
+    <title>Soul Scents Beeswax Candles - 18 Birthday Candles</title>
+    <s:type>Candles</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soul_Scents_Beeswax_Candles_-_18_Birthday_Candles.jpg?v=1473782843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Candles<br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Manufactured by Bee Glo of Lanark, Ontario. Beeswax is non-toxic and non-carcinogenic. The candles burn hotter, brighter, longer and cleaner than conventional candles.</p>
+<p>(We still have the Bee Glo labeled candles shown online, shapes and sizes are exactly the same with the Soul Scents label.)</p>
+<p>We keep minimal stock of these candles on hand,and order as needed. Deliveries to us are typically on Friday, so if you order by Wednesday I can usually have it out to you later that week.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candles</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7543824257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.40</s:price>
+      <s:sku>BG-118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

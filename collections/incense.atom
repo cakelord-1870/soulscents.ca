@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/incense.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2021-07-05T11:34:11-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/6578930942023</id>
+    <published>2021-07-05T11:34:11-03:00</published>
+    <updated>2021-07-05T11:34:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/ispalla-incense-peru"/>
+    <title>Ispalla Incense Peru</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Ispalla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Ispalla-incense-peru.jpg?v=1625663211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ispalla<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.75 - 125.00
+            <a href="https://soulscents.ca/products/ispalla-incense-peru">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="elementor-element elementor-element-5832aeb elementor-widget elementor-widget-text-editor" data-id="5832aeb" data-element_type="widget" data-widget_type="text-editor.default" data-mce-fragment="1">
+<div class="elementor-widget-container" data-mce-fragment="1">
+<div class="elementor-text-editor elementor-clearfix" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong>NEW! Ispalla Incense Sticks from Peru</strong></p>
+<p data-mce-fragment="1">The energies of northern Peru are fused in incense sticks of Palo Santo to form a pleasant and relaxing aroma that cleanses the energies of every corner of your home or office. It is ideal to use in Yoga, Reiki and meditation practices as it will help to relax the mind and reduce stress.<br></p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1f34f12 elementor-widget elementor-widget-text-editor" data-id="1f34f12" data-element_type="widget" data-widget_type="text-editor.default" data-mce-fragment="1">
+<div class="elementor-widget-container" data-mce-fragment="1">
+<div class="elementor-text-editor elementor-clearfix" data-mce-fragment="1">
+<p data-mce-fragment="1"><span data-mce-fragment="1"><a href="https://ispallaincense.com/" title="Website for Ispalla Incense" target="_blank">Ispalla incenses</a> are made with the highest quality of resins to offer a unique and relaxing experience. There are no chemical components in its preparation, each person who lights an Ispalla incense will be enjoying the unique aromas of Peru.</span></p>
+<p data-mce-fragment="1"><br></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Ispalla</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Copal</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rue</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Myrrh</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rosemary</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku>IS-PRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Assorted Box 50ct -10 each scent</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-AB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PS50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Copal Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rue Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PR50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Myrrh Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PM50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578930942023</id>
+      <title>Palo Santo &amp; Rosemary Box 50ct</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>IS-PRM50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4651155521607</id>
+    <published>2020-05-22T12:10:47-03:00</published>
+    <updated>2020-05-22T12:10:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/papier-darmenie"/>
+    <title>Papier d&apos;Armenie</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Papier d&apos;Armenie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/papierd_armenietraditional.jpg?v=1590161134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Papier d&#39;Armenie<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.00 - 20.00
+            <a href="https://soulscents.ca/products/papier-darmenie">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Known worldwide as the most ancient natural room deodorizer; since 1885.</strong></em></p>
+<p> Made from natural ingredients such as benzoin and incense.</p>
+<p>Created to perfume your home and eliminate unpleasant odors such as frying, tobacco, cat litter, bathroom or dampness. Bring it with you on your travels : car, vacation home, hotel room.</p>
+<h3>The absorbent paper used to manufacture Papier d’Arménie<sup>®</sup> is certified by the Forest Stewardship Council, an independent international organisation to promote the responsible management of the world's forests.</h3>
+<p>Papier d’Arménie can also be used without burning it to deodorize wardrobes or drawers. Each booklet has 36 pre-cut paper strips, in twelve sheets of 3.</p>
+<p>Ceramic holder comes in assorted colours. It has a t<span>riangular base with sides of 14.5cm &amp; Dome 8cm in diameter.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>incense holders</s:tag>
+    <s:tag>Papier d&apos;Armenie</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Traditional Booklet -Green</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>PA-TR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Armenie Booklet -Blue</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PA-AR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Rose Booklet -Pink</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>PA-RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4651155521607</id>
+      <title>Ceramic Burner</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>PA-CB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4364454756423</id>
+    <published>2019-11-20T10:05:38-04:00</published>
+    <updated>2019-11-20T10:05:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nandita-blunt-nag-champa-incense"/>
+    <title>Nandita Blunt Nag Champa Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Blunt_Nag_Champa.jpg?v=1574261581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This incense that arrived as a mistake will be on sale while supply lasts, it has a soft floral fragrance and not too strong. Each unit is 15gr.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4364454756423</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>NC-BLT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/279741530153</id>
+    <published>2017-11-08T12:22:15-04:00</published>
+    <updated>2017-11-08T12:22:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/shoyeido-handcrafted-pottery-incense-holder-new"/>
+    <title>Shoyeido Handcrafted Pottery Incense Holder</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/SH-rust_rim.jpg?v=1612197988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            9.00 - 22.00
+            <a href="https://soulscents.ca/products/shoyeido-handcrafted-pottery-incense-holder-new">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All are hand made like the rest of their pottery and there will be slight variations in the colours as they are hand glazed.</p>
+<p>Lotus &amp; Rustic Tray measure about 4.5" in diameter. </p>
+<p>Rust Rim &amp; Blue Rim measure 4" wide x 2" high</p>
+<p>Moonlight Bowl measures 4" wide x 3" high</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>incense holders</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Ebony Incense Tray 8.25&quot;</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>53208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Frost Incense Tray 8.25&quot;</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>53207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Blue Rim Cup</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>50302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Rust Rim Cup</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>50301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>*Out of Stock* Moonlight Bowl</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>50403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Lotus</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>SH-LIH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/279741530153</id>
+      <title>Rustic Tray</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>SH-RT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/101616910362</id>
+    <published>2017-09-14T11:47:00-03:00</published>
+    <updated>2017-09-14T11:47:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-incense-cones"/>
+    <title>Triloka Incense Cones</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-394.jpg?v=1505400812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            0.01 - 3.25
+            <a href="https://soulscents.ca/products/triloka-incense-cones">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These hand pressed cones are made by the masala method combining natural woods, herbs, gums, resins and oils and dried in the sun. </p>
+<p>Approx. 14 cones per box, ceramic stand included in each box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Arabian Jasmine</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Amber Sun</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Dream Rose</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Green Patchouli</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Musk</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Marrakesh</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Sandalwood Fire</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Angelic Frankincense</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Lemongrass</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Vanilla Sandalwood</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Tangerine Scream</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Vanilla Rose</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>China Rain</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Royal Sandalwood</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Assorted #1</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Assorted #2</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/101616910362</id>
+      <title>Metal Display for Cones</title>
+      <s:price currency="CAD">0.01</s:price>
+      <s:sku>I-394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/101547343898</id>
+    <published>2017-09-14T10:57:05-03:00</published>
+    <updated>2017-09-14T10:57:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/tibetan-lattice-incense-stand"/>
+    <title>Tibetan Lattice Incense Stand</title>
+    <s:type>Incense Holders</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/H-005.jpg?v=1505397785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense Holders<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This traditional incense stand is made from sustainable, responsibly harvested woods by Fair Trade cottage industry partners. </p>
+<p>Approx. 11" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/101547343898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>H-005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/18017943578</id>
+    <published>2017-08-07T13:31:34-03:00</published>
+    <updated>2017-08-07T13:31:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-himalayan-herbal-dhoop-coals"/>
+    <title>Triloka Himalayan Herbal Dhoop Coals</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-629.jpg?v=1502123671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long burning natural tablets, an alternative to charcoal. Used for burning herbs or resins.</p>
+<p>6 coals per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/18017943578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.95</s:price>
+      <s:sku>I-629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/10395913165</id>
+    <published>2017-07-06T11:50:53-03:00</published>
+    <updated>2017-07-06T11:50:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-angel-series-incense-sticks"/>
+    <title>Triloka Angel Series Incense Sticks</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-450.jpg?v=1499353769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            3.25 - 260.00
+            <a href="https://soulscents.ca/products/triloka-angel-series-incense-sticks">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautiful series of Incense Sticks connected to the Angels. This incense is formulated to open our hearts and minds to the energy, message and power of the angels. Handmade according to ancient tradition and supports an age old cottage industry. 100% natural botanicals, blended with fragrant wood powders, seeds, roots, leaves, gums, herbs, essential oils and resins.</p>
+<p>10 sticks per pack   -Assorted has 7 sticks individually wrapped</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>*Unavailable* Angel of Love</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-450</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>Angel of Awakening</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>Angel of Hope</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>*Unavailable* Angel of Abundance</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-453</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>*Unavailable* Angel of Reconciliation</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>*Unavailable* Angel of Confidence</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-455</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>Angel of Serenity</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>*Unavailable* Assorted</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10395913165</id>
+      <title>Pre-filled Angel Incense Display</title>
+      <s:price currency="CAD">260.00</s:price>
+      <s:sku>I-378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/10039695629</id>
+    <published>2017-05-17T15:08:12-03:00</published>
+    <updated>2017-05-17T15:08:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/shoyeido-gift-sets"/>
+    <title>Shoyeido Gift Sets</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/SH-PSG.jpg?v=1572883454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            13.00 - 13.95
+            <a href="https://soulscents.ca/products/shoyeido-gift-sets">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Amethyst Gift Set with wooden incense holder, includes: One 30-stick package of Amethyst incense &amp; one laser-etched Cherry Wood Incense Holder</p>
+<p>NEW Gift Sets now in stock:</p>
+<p>﻿﻿Palo Santo Gift Set &amp; Patchouli Gift Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift sets</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Patchouli Gift Set</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>SH-PAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Palo Santo Gift Set</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku>SH-PSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Amethyst Gift Set</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>SH-AMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/10039695629</id>
+      <title>Eternal Treasure Gift Set</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>SH-ETG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7928980417</id>
+    <published>2016-09-13T17:04:00-03:00</published>
+    <updated>2016-09-13T17:04:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-original-bestsellers-incense-with-wood-burner"/>
+    <title>Triloka Original “Bestsellers” Incense with Wood Burner</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Triloka_Original_Bestsellers_Incense_with_Wood_Burner.jpg?v=1473797197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Triloka Original “Bestsellers” Incense together with H-034 Plain Wood Burner, a great gift!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift sets</s:tag>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7928980417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>G-102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927307329</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/devil-s-garden-vampire-blood-incense"/>
+    <title>Devil’s Garden Vampire Blood Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Devil_s_Garden_Vampire_Blood_Incense.jpg?v=1473788242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.50 - 10.35
+            <a href="https://soulscents.ca/products/devil-s-garden-vampire-blood-incense">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in multiple sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927307329</id>
+      <title>15gm</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>DG-VB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927307329</id>
+      <title>40gm</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>DG-VB40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927307329</id>
+      <title>100gm</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku>DG-VB100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927256705</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/goloka-nag-champa"/>
+    <title>Goloka Nag Champa</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/I-289.jpg?v=1574259840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            1.25 - 9.45
+            <a href="https://soulscents.ca/products/goloka-nag-champa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in multiple sizes &amp; now in Cones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927256705</id>
+      <title>16gm</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>I-207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927256705</id>
+      <title>40gm</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>I-282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927256705</id>
+      <title>100gm</title>
+      <s:price currency="CAD">9.45</s:price>
+      <s:sku>I-284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927256705</id>
+      <title>Cones</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>I-289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927240833</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nag-champa-soap"/>
+    <title>Nag Champa Soap</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nag-champa-soap.jpg?v=1473787903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            3.50 - 5.50
+            <a href="https://soulscents.ca/products/nag-champa-soap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927240833</id>
+      <title>Small Soap 75gr</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>NC-SPS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927240833</id>
+      <title>Nag Champa 150gr</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>NC-SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927193281</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nag-champa-super-hit"/>
+    <title>Nag Champa Super Hit</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nag_Champa_Super_Hit_Incense.jpg?v=1473787682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            1.25 - 9.45
+            <a href="https://soulscents.ca/products/nag-champa-super-hit">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in multiple sizes.</p>
+<p>(Also available separately in a cone format.)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927193281</id>
+      <title>10gm</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>NI-N1S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927193281</id>
+      <title>15gm</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-NCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927193281</id>
+      <title>100gm</title>
+      <s:price currency="CAD">9.45</s:price>
+      <s:sku>NI-NGS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927193281</id>
+      <title>Cones</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-COS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927190337</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/sai-baba-nag-champa-incense"/>
+    <title>Sai Baba Nag Champa Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sai_Baba_Nag_Champa_Incense.jpg?v=1473787555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            1.25 - 20.50
+            <a href="https://soulscents.ca/products/sai-baba-nag-champa-incense">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in multiple sizes.</p>
+<p>(Also available separately in a cone format.)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>10gm</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>NI-N1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>15gm</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>40gm</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>NI-NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>100gm</title>
+      <s:price currency="CAD">9.45</s:price>
+      <s:sku>NI-NG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>250gm</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku>NI-N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927190337</id>
+      <title>Cones</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-CO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917858753</id>
+    <published>2016-09-13T00:12:00-03:00</published>
+    <updated>2016-09-13T00:12:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/zen-incense"/>
+    <title>Shoyeido Zen Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Zen_Incense-sitting.jpg?v=1473736491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            8.00 - 11.50
+            <a href="https://soulscents.ca/products/zen-incense">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An ideal companion for meditation and quiet reflection, to scent a large room, or even for outdoor gatherings.<br>Thicker 13” long sticks/ Burns 2 hr/stick. 30 sticks.</p>
+<p><strong>Sitting Zen</strong> (sandalwood, clove, cinnamon, spices)</p>
+<p><strong>Morning Zen</strong> (sandalwood, cinnamon, benzoin, spices)</p>
+<p><strong>Evening Zen</strong> (sandalwood,clove, patchouli, benzoin, spices)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Zen</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917858753</id>
+      <title>Sitting Zen</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>SH-SZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917858753</id>
+      <title>Morning Zen</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SH-MZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917858753</id>
+      <title>Evening Zen</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>SH-EZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917846785</id>
+    <published>2016-09-13T00:08:00-03:00</published>
+    <updated>2016-09-13T00:08:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/kyoto-moon-series-incense"/>
+    <title>Kyoto Moon Series Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Kyoto_Moon_Series_Incense.jpg?v=1590603024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 2 fragrances inspired by the phases of the moon, blended from aromatic woods, natural herbs and spices.</p>
+<p>35 sticks, Burns 30 min/stick.</p>
+<p><strong>Tranquility/Crescent Moon</strong> (sandalwood, cedar wood, spices)</p>
+<p><strong>Creativity/New Moon</strong> (cinnamon, clove, spices)</p>
+<p><strong>Kyoto Moon Display</strong> (holds 30 units, 15 of Tranquility &amp; 15 Creativity as Abundance/Full Moon has been discontinued) <strong>Please contact for details.</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917846785</id>
+      <title>Tranquility/Crescent Moon</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917846785</id>
+      <title>Creativity/New Moon</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-NM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917776385</id>
+    <published>2016-09-12T23:55:00-03:00</published>
+    <updated>2016-09-12T23:55:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/shoyeido-incense-traditional-daily-series"/>
+    <title>Shoyeido Incense - Traditional Daily Series</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Shoyeido_Incense_-_Traditional_Daily_Series.jpg?v=1612976764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.90 - 175.00
+            <a href="https://soulscents.ca/products/shoyeido-incense-traditional-daily-series">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eight timeless natural fragrances blended for everyday enjoyment. Twenty to fifty natural ingredients are combined in precise proportions to create these soothing and evocative scents.</p>
+<p>Burns 50 min/stick. 30 sticks</p>
+<p><strong>Kyoto Autumn Leaves</strong> (sandalwood, clove, patchouli, benzoin, spices)</p>
+<p><strong>Kyoto Cherry Blossoms</strong> (sandalwood, cinnamon, benzoin, clove)</p>
+<p><strong>Eternal Treasure</strong> (sandalwood, clove, cinnamon, spices)</p>
+<p><strong>Five Hills</strong> (sandalwood, patchouli, cloves, spices)</p>
+<p><strong>Golden Pavilion</strong> (sandalwood, clove, patchouli, benzoin, spices)</p>
+<p><strong>Great Origin</strong> (sandalwood, cinnamon, camphor, spices)</p>
+<p><strong>Moss Garden</strong> (sandalwood, benzoin, patchouli, spices)</p>
+<p><strong>White Cloud</strong> (sandalwood, clove, camphor, spices)</p>
+<p><strong>Daily Incense Sturdy Cardboard Display</strong> - 5 units of 6 scents (no White Cloud or Five Hills)  $95.00</p>
+<p><strong>Daily Incense Sturdy Cardboard Display</strong> - 5 units of all 8 scents  $175.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Kyoto Autumn Leaves</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>SH-AL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Kyoto Cherry Blossoms</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku>SH-CB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Eternal Treasure</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>SH-ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Five Hills</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>SH-FH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Golden Pavilion</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>SH-GP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Great Origin</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>SH-GT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Moss Garden</title>
+      <s:price currency="CAD">3.70</s:price>
+      <s:sku>SH-MG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>White Cloud</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku>SH-WC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Cardboard Display (6 scents, no White Cloud or Five Hills)</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>SH-DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917776385</id>
+      <title>Cardboard Display (8 scents)</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku>SH-DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917679681</id>
+    <published>2016-09-12T23:51:00-03:00</published>
+    <updated>2016-09-12T23:51:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnifiscents-incense-the-jewel-series"/>
+    <title>Shoyeido - The Jewel Series</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Magnifiscents_Incense_-_The_Jewel_Series.jpg?v=1473735294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            3.80 - 114.00
+            <a href="https://soulscents.ca/products/magnifiscents-incense-the-jewel-series">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoyeido created the Jewel Series to evoke the spirits of five precious stones, each a symbol of humanity's greatest inner qualities: Diamond for power. Ruby for strength. Emerald for awareness. Sapphire for devotion. Amethyst for balance. Each fragrance is blended from only the finest aromatic woods, herbs, roots, resins and spices.</p>
+<p>Burns 30 min/stick. 30 sticks.</p>
+<p><strong>Diamond-Power</strong> (sandalwood, ginger lily, frankincense, cinnamon)</p>
+<p><strong>Ruby-Strength</strong> (cinnamon, patchouli, saussurea sandalwood, spices)</p>
+<p><strong>Emerald-Awareness</strong> (sandalwood, fennel, clove cinnamon, spices)</p>
+<p><strong>Sapphire-Devotion</strong> (sandalwood, vetiver, clove benzoin, spices)</p>
+<p><strong>Amethyst-Balance</strong> (sandalwood, cinnamon saussurea (aroma like violets) spices)</p>
+<p><strong>Sturdy Cardboard Display</strong> (30 units/6 of each)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Diamond-Power</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku>SH-DI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Ruby-Strength</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku>SH-RU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Emerald-Awareness</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku>SH-EM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Sapphire-Devotion</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku>SH-SA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Amethyst-Balance</title>
+      <s:price currency="CAD">3.80</s:price>
+      <s:sku>SH-AM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917679681</id>
+      <title>Cardboard Display</title>
+      <s:price currency="CAD">114.00</s:price>
+      <s:sku>SH-JD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917633345</id>
+    <published>2016-09-12T23:46:00-03:00</published>
+    <updated>2016-09-12T23:46:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnifiscents-incense-the-angelic-series"/>
+    <title>Shoyeido - The Angelic Series</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Shoyeido</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Magnifiscents_Incense_-_The_Angelic_Series.jpg?v=1473735048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shoyeido<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.60 - 138.00
+            <a href="https://soulscents.ca/products/magnifiscents-incense-the-angelic-series">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoyeido's expert incense blenders began working on a new incense series - to capture the essences of some of humankind's highest ideals - our heart’s greatest desires - as pure fragrance.</p>
+<p>Their transcendent outcome was the Angelic Series of incenses: five idyllic fragrances embodying the spirits of Inspiration, Peace, Hope, Joy, and Love. Each fragrance is blended from only the finest aromatic woods, herbs, roots, resins and spices.</p>
+<p>Burns 30 min/stick. 30 sticks</p>
+<p><strong>Inspiration</strong> (sandalwood and exotic spices)</p>
+<p><strong>Peace</strong> (myrrh, sandalwood, clove and spices)</p>
+<p><strong>Hope</strong> (sandalwood, frankincense, ginger lily, spices)</p>
+<p><strong>Joy</strong> (tea leaves, sandalwood, clove, vanilla, spices)</p>
+<p><strong>Love</strong> (benzoin, sandalwood, balsam tolu, spices)</p>
+<p><strong>Cardboard display</strong> (30 units/6 of each)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Shoyeido</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Inspiration</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-IN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Peace</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-PE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Hope</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-HP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Joy</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-JY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Love</title>
+      <s:price currency="CAD">4.60</s:price>
+      <s:sku>SH-LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917633345</id>
+      <title>Cardboard display 30 units, 6 of each</title>
+      <s:price currency="CAD">138.00</s:price>
+      <s:sku>SH-AD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917559937</id>
+    <published>2016-09-12T23:37:00-03:00</published>
+    <updated>2016-09-12T23:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/tibetan-incense-shambala"/>
+    <title>Tibetan Incense - Shambala</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/tibetan-incense-shambala.jpg?v=1473734704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This hand prepared incense is made form medicinal herbs and is prized for its rich aroma. </p>
+<p>Approx. 25 sticks per pack, each about 10" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917559937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.95</s:price>
+      <s:sku>I-220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917513729</id>
+    <published>2016-09-12T23:37:00-03:00</published>
+    <updated>2016-09-12T23:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/tibetan-incense-tara"/>
+    <title>Tara Healing Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Soul Scents</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/tara_healing.jpg?v=1505397379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soul Scents<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This century old Tibetan Incense is prepared by hand according to ancient Tibetan medicinal system and is composed of 31 different pure and natural herbs.<br></p>
+<p>Approx. 5" long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917513729</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.25</s:price>
+      <s:sku>I-209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917486401</id>
+    <published>2016-09-12T23:37:00-03:00</published>
+    <updated>2016-09-12T23:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nag-champa-super-hit-cones"/>
+    <title>Nag Champa Super Hit Cones</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nag_Champa_Super_Hit_Cones.jpg?v=1473734359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Box of 12.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917486401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-COS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917483969</id>
+    <published>2016-09-12T23:37:00-03:00</published>
+    <updated>2016-09-12T23:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nag-champa-cones"/>
+    <title>Nag Champa Cones</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nag_Champa_Cones.jpg?v=1473734327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Box of 12.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917483969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>NI-CO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7917460225</id>
+    <published>2016-09-12T23:35:00-03:00</published>
+    <updated>2016-09-12T23:35:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/triloka-ayurvedic-meditation-incense-cones"/>
+    <title>Triloka Ayurvedic Meditation Incense Cones</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Triloka_Ayurvedic_Meditation_Incense_Cones.jpg?v=1473734203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red-Pitta, Blue-Vatta or Green-Kapha &amp; Assorted Box</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917460225</id>
+      <title>Red -Pitta</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>I-508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917460225</id>
+      <title>Blue -Vatta</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>1-509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917460225</id>
+      <title>Green -Kapha</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>I-510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7917460225</id>
+      <title>Assorted Box</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>I-512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

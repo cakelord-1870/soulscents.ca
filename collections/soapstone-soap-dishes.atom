@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/soapstone-soap-dishes.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2016-09-13T10:56:00-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/7924938497</id>
+    <published>2016-09-13T10:56:00-03:00</published>
+    <updated>2016-09-13T10:56:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/soapstone-soap-dishes"/>
+    <title>Soapstone Soap Dishes</title>
+    <s:type>Soapstone Soap Dishes</s:type>
+    <s:vendor>Triloka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Soapstone_Soap_Dishes_Carved_Flora.jpg?v=1542997979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Triloka<br>
+        <strong>Type: </strong>Soapstone Soap Dishes<br>
+        <strong>Price: </strong>
+            10.75 - 11.65
+            <a href="https://soulscents.ca/products/soapstone-soap-dishes">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intricately carved, inspired by nature and supporting fair trade cottage industries in India and Nepal, these two piece soapstone soap dishes are easy to clean and go well with soaps in your store as a perfect gift set!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Triloka</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Twin Vines</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Carved Flora</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Tropical Leaves</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Butterfly</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>*Currently Unavailable*Oval</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>H-207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Double Flower</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Flower Garden</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Frog</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Large Oval</title>
+      <s:price currency="CAD">11.65</s:price>
+      <s:sku>H-230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7924938497</id>
+      <title>Rosebud</title>
+      <s:price currency="CAD">10.75</s:price>
+      <s:sku>H-180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

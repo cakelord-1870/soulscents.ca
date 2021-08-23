@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/all-natural-bodycare.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2021-07-05T10:53:38-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/6578926288967</id>
+    <published>2021-07-05T10:53:38-03:00</published>
+    <updated>2021-07-05T10:53:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/crown-relief-roll-on"/>
+    <title>Crown Relief Roll On</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-crown-relief-roll-on.jpg?v=1625493125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An uplifting and feel good way of finding relief, naturally. Made with care in Nova Scotia, Canada using natural, earth-derived magnesium chloride. </p>
+<p data-mce-fragment="1"><strong>Most popular use:</strong> headache relief.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578926288967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>NM-RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578925862983</id>
+    <published>2021-07-05T10:48:24-03:00</published>
+    <updated>2021-07-05T10:48:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-cream"/>
+    <title>Magnesium Cream</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-cream_19a81a50-4f3c-4af1-9d26-0947933bf7e8.jpg?v=1626181279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Blended with skin nourishing Unrefined Shea Butter and Organic Sunflower Seed Oil, our Magnesium Cream provides relief inside and out! Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.<br></p>
+<p data-mce-fragment="1">​Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: Magnesium Cream: <span data-mce-fragment="1">Best results are felt when used daily on an area of concern. Apply to lower abdomen for uses that don’t have specific “areas” of the body or specific areas of concern.</span></p>
+<p data-mce-fragment="1">125ml. Available in Unscented, Lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>magnesium cream</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925862983</id>
+      <title>Cream Unscented</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>NM-CU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925862983</id>
+      <title>Cream Lavender</title>
+      <s:price currency="CAD">20.95</s:price>
+      <s:sku>NM-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578925207623</id>
+    <published>2021-07-05T10:45:45-03:00</published>
+    <updated>2021-07-05T10:45:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-cream-with-arnica"/>
+    <title>Magnesium Cream with Arnica</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-cream-with-arnica.jpg?v=1625492955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Blended with skin nourishing Unrefined Shea Butter and Organic Sunflower Seed Oil, the Magnesium Cream with Arnica provides relief inside and out! Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.<br></p>
+<p data-mce-fragment="1">​Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: Magnesium Cream + Arnica: Massage directly over specific body parts that require an extra strength fast and effective relief from sore/tense muscles, arthritic areas and bruising.</p>
+<p data-mce-fragment="1">125ml. Available in Unscented, Lavender.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arnica cream</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925207623</id>
+      <title>Arnica Unscented</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NM-AU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578925207623</id>
+      <title>Arnica Lavender</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>NM-AL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6578924879943</id>
+    <published>2021-07-05T10:37:35-03:00</published>
+    <updated>2021-07-05T10:37:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/magnesium-body-spray"/>
+    <title>Magnesium Body Spray</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nourished Magnesium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nourished-magnesium-body-spray.jpg?v=1625492166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nourished Magnesium<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Nourished Magnesium uses only Magnesium Chloride in the making of its products, which is one of the most bio-available types of Magnesium on the market.</p>
+<p data-mce-fragment="1">Applied topically, Magnesium can be applied directly to the area of concern, bypassing the need for digestion or risk of an upset stomach. It enters through the skin and directly into the bloodstream, meaning fast results! Best results are felt when used daily on an area of concern. Apply to lower abdomen (the most absorbent part of the body) for uses that don’t have specific “areas” or just for general supplementation.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Most popular use</strong>: An application to the lower abdomen before a deep and restful sleep! ​</p>
+<p data-mce-fragment="1">100ml. Available in Unscented, Lavender, Mint + Menthol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body spray</s:tag>
+    <s:tag>Nourished Magnesium</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/6578924879943</id>
+      <title>Mint</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>NM-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538996514887</id>
+    <published>2021-03-04T18:57:13-04:00</published>
+    <updated>2021-03-04T18:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-chill-body-spray"/>
+    <title>Yoga Potion Chill Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-chill-body-spray.jpg?v=1614898714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>CHILL Mist &amp; Body Spray</strong> works wonderfully to help promote balanced hormones, spray chest, face, thighs and belly to help alleviate hot flashes or PMS. Also great as a calming body spray throughout the day.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996514887</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538996154439</id>
+    <published>2021-03-04T18:53:58-04:00</published>
+    <updated>2021-03-04T18:53:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-meditation-body-spray"/>
+    <title>Yoga Potion Meditation Body Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-meditation-spray.jpg?v=1614898455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>MEDITATION Mist &amp; Body Spray</strong> is formulated to be calming, grounding &amp; relaxing. Great for a massage space, bed time or to help create a calm around you before yoga or meditation.</span></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538996154439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-MBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538995957831</id>
+    <published>2021-03-04T18:52:17-04:00</published>
+    <updated>2021-03-04T18:52:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-clean-freak-spray"/>
+    <title>Yoga Potion Clean Freak Spray 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-clean-freak-spray.jpg?v=1614898556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong data-mce-fragment="1">CLEAN FREAK</strong> is anti-fungal, anti-bacterial and perfect for yoga mats, massage therapists, camping, pet areas &amp; so much more!<br></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538995957831</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>YP-CFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538994417735</id>
+    <published>2021-03-04T18:46:38-04:00</published>
+    <updated>2021-03-04T18:46:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/hemp-infused-skin-firming-oil-120ml"/>
+    <title>Hemp Infused Skin Firming Oil 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-hemp-infused-skin-firming-oil.jpg?v=1614898099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Potion is a wonderful lymphatic drainage blend for massage and cellulite treatment. Intended for all over application.</p>
+<p>*Dry brushing is highly recommended before applying.<br></p>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538994417735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>YP-SFO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538837295175</id>
+    <published>2021-03-04T11:32:47-04:00</published>
+    <updated>2021-03-04T11:32:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/yoga-potion-hemp-infused-massage-oil"/>
+    <title>Yoga Potion Hemp Infused Massage Oil 120ml</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Yoga Potion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/yoga-potion-hemp-infused-massage-oil.jpg?v=1614897925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Potion<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Strains &amp; Sprains, our time and tested potion for over 30 years for inflammation pain, is now boosted with healing hemp, with extra terpenes and cannabinoids making this an impressive topical pain management treatment.  Our Hemp Oil is Raw, THC-A,  having no psychotropic effects."  Great for:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Inflammation muscle &amp; joint pain</li>
+<li data-mce-fragment="1">Massage Oil</li>
+<li data-mce-fragment="1">Bath Soak –<span data-mce-fragment="1"> </span><i data-mce-fragment="1">add 1 cap of oil to Epsom salts… and soak</i>
+</li>
+</ul>
+<p><strong>Yoga Potion is a Canadian Company from Kelowna B.C.</strong></p>
+<p><span data-mce-fragment="1">All of their products are handmade and blends have been carefully formulated with Master Herbalist Blaine Andrusek. In their own words: "Our balanced healthy energy is necessary to align with and respect the essence of the oils, ensuring the synergistic blends come to market with their purest potential for healing effects and aesthetic enjoyment."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538837295175</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku>YP-HMS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/6538814095431</id>
+    <published>2021-03-04T10:29:41-04:00</published>
+    <updated>2021-03-04T10:29:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/junglista-outdoor-spray"/>
+    <title>Junglista Outdoor Spray</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Wild Creek Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/junglista-insect-repellent.jpg?v=1614868182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wild Creek Naturals<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            7.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Junglista is an insect repellent using natural ingredients and an amino acid analog to deter a multitude of pests. Junglist is 100% biodegradable and non-toxic.<br></p>
+<p data-mce-fragment="1">Junglista is specially formulated from natural ingredients for the outdoor enthusiasts who are simply exhausted from non-stop flailing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Junglista</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/6538814095431</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.15</s:price>
+      <s:sku>MR-JU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4902634750023</id>
+    <published>2020-11-04T15:10:40-04:00</published>
+    <updated>2020-11-04T15:10:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-baby-products"/>
+    <title>Nova Scotia Fisherman Baby Products</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Baby_Soap.png?v=1604516970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            4.95 - 8.95
+            <a href="https://soulscents.ca/products/nova-scotia-fisherman-baby-products">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NEW From Nova Scotia Fisherman .. Beautiful Baby Products made with their trademark Nova Scotia Sea Kelp with hints of Lavender &amp; Chamomile. </p>
+<p>Baby Balm &amp; Baby Soap with no artificial fragrance, dyes or preservatives &amp; no petroleum based ingredients. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby &amp; Kids</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902634750023</id>
+      <title>Baby Balm Tin 1oz</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>NSF-BBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902634750023</id>
+      <title>Baby Soap Bar 2.85oz</title>
+      <s:price currency="CAD">4.95</s:price>
+      <s:sku>NSF-BSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4902633734215</id>
+    <published>2020-11-04T15:00:53-04:00</published>
+    <updated>2020-11-04T15:00:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-pet-products"/>
+    <title>Nova Scotia Fisherman Pet Products</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Pet_Soap_Bar.jpg?v=1604516399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.45 - 8.95
+            <a href="https://soulscents.ca/products/nova-scotia-fisherman-pet-products">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NEW from Nova Scotia Fisherman ... Soap &amp; Salve for your four legged friend. </p>
+<p>Bar Soap designed for dogs will help with hot spots, condition their skin &amp; is made with essential oils that help to deter fleas &amp; ticks.</p>
+<p>Pet Salve is based on their Rescue Balm formula and is great for rough paws, cuts, scrapes or scratches. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:tag>Pet Soap &amp; Salve</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902633734215</id>
+      <title>Pet Soap Bar 3.3oz</title>
+      <s:price currency="CAD">5.45</s:price>
+      <s:sku>NSF-PS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4902633734215</id>
+      <title>Pet Balm Salve 1oz</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>NSF-PB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4541894918215</id>
+    <published>2020-03-24T11:24:55-03:00</published>
+    <updated>2020-03-24T11:24:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/merry-hempsters-organic-arnica-salve"/>
+    <title>Merry Hempsters Organic Arnica Salve</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Merry Hempsters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/MH-OrgArnicaDisplay.jpg?v=1585060594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merry Hempsters<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.25 - 60.00
+            <a href="https://soulscents.ca/products/merry-hempsters-organic-arnica-salve">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Merry Hempsters Organic Arnica Salve .. perfect addition to any first aid kit or use for aches, sprains, strains  &amp; bruises.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Merry Hempsters</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4541894918215</id>
+      <title>Organic Arnica Salve</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>MH-OA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/4541894918215</id>
+      <title>Organic Arnica Salve Display</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>MH-OAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/4499403866183</id>
+    <published>2020-02-26T15:29:44-04:00</published>
+    <updated>2020-02-26T15:29:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-tattoo-balm"/>
+    <title>Nova Scotia Fisherman Tattoo Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Tattoo.jpg?v=1582746049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New from Nova Scotia Fisherman!</p>
+<p>Safe for whole body use. Made with sustainable Nova Scotia Sea Kelp, Lavender, Lemongrass, Olive Oil, Coconut Oil, Rosehip, Aloe &amp; Vitamin E.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:tag>Tattoo Balm</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/4499403866183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>NSF-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1697015595042</id>
+    <published>2019-02-03T15:26:57-04:00</published>
+    <updated>2019-02-03T15:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-after-sun-balm"/>
+    <title>Badger After Sun Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Badger_After_Sun_Balm.png?v=1549222231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><em>Soothing After-Sun Skin Care.</em></strong><span> Badger's all-natural and organic After Sun Balm is Packed with soothing Cocoa and Shea Butters, and makes a great addition to any sun care routine. Sun, wind, salt, and sand all take a toll on skin, and After Sun Balm helps to restore the balance. Lavender and Moroccan Blue Tansy oils contribute to the delightful tropical scent and have been shown to exhibit anti-inflammatory properties, helping to soothe, cool, and relieve your dry, tight skin after sun exposure</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aromatherapy</s:tag>
+    <s:tag>Badger</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1697015595042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-ASB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/1668593451042</id>
+    <published>2019-01-03T15:11:43-04:00</published>
+    <updated>2019-01-03T15:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-shampoo-bar"/>
+    <title>Badger Shampoo Bar</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Badger_Shampoo_Bar.png?v=1546543008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">NEW from Badger! A Shampoo Bar that lasts as long as a 12oz bottle of shampoo. Made with 85% organic ingredients this bar is easy to travel with, perfect for both hair and body, plant based, vegan &amp; cruelty free.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badger</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/1668593451042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-SHB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/745976430684</id>
+    <published>2018-04-23T21:30:28-03:00</published>
+    <updated>2018-04-23T21:30:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-tattoo-balm"/>
+    <title>Badger Tattoo Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Badger_Tattoo_Balm.png?v=1524529977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Got ink?</strong><span> Keep it conditioned and protected with our soothing and nourishing certified organic tattoo aftercare. Dry skin is the enemy of new or existing body art. Badger’s Tattoo Balm with moisturizing Coconut and Tamanu oil will help keep your skin soft and smooth and your ink bold and vibrant! Pure and gentle essential oils exude a subtle, natural aroma.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badger</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/745976430684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/182474637338</id>
+    <published>2017-10-30T14:54:56-03:00</published>
+    <updated>2017-10-30T14:54:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-holiday-items"/>
+    <title>Nova Scotia Fisherman Seasonal Items</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Holiday_Plaid_Box_2018.jpg?v=1604515906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            3.55 - 17.95
+            <a href="https://soulscents.ca/products/nova-scotia-fisherman-holiday-items">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take Advantage of these fantastic Seasonal Items from Nova Scotia Fisherman.</p>
+<p><strong>NEW Candy Cane Soap !</strong></p>
+<p>Their Gift Box is set up with 4 of their top sellers, perfect to have on hand for customers as an easy to grab gift set.</p>
+<p>Their Candy Cane Lip Balm is sure to be a hit!! Available in both tube and double packs these lip balms will be a must for any stocking this year. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift sets</s:tag>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/182474637338</id>
+      <title>Candy Cane Soap 3.35oz</title>
+      <s:price currency="CAD">5.45</s:price>
+      <s:sku>NSF-CCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/182474637338</id>
+      <title>Candy Cane Lip Balm Tube</title>
+      <s:price currency="CAD">3.55</s:price>
+      <s:sku>NSF-LBCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/182474637338</id>
+      <title>Candy Cane Double Pack Lip Balm</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-CCDP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/182474637338</id>
+      <title>Gift Box</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>NSF-GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7543739777</id>
+    <published>2017-06-15T12:35:57-03:00</published>
+    <updated>2017-06-15T12:35:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/ayurvedic-soap-tulsi-neem"/>
+    <title>Sidha Tulsi &amp; Neem Soap</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Chandrika</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Sidha_Soap.jpg?v=1497540931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chandrika<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from pure coconut oil with natural extracts of Tulsi and Neem. Tulsi (Holy Basil) and Neem are both naturally anti-bacterial and help to protect the skin against bacterial infections.</p>
+<p>Sidha Soap does not contain any animal fat and is not tested on animals. Sidha Soap does not contain any artificial colour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chandrika</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7543739777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.60</s:price>
+      <s:sku>CH-TN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/9477390861</id>
+    <published>2017-03-28T12:48:00-03:00</published>
+    <updated>2017-03-28T12:48:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-organic-belly-butter"/>
+    <title>Badger Organic Belly Butter</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/organic-pregnant-belly-butter.png?v=1490716308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cocoa Butter, Coconut Oil &amp; Vitamin E help to soothe and relieve dry, tight skin. Perfect after a shower or bath, or anytime extra pampering is needed. Hypoallergenic &amp; suitable for all skin types, safe for use during and after pregnancy.</p>
+<p>56gr/ 2oz tin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badger</s:tag>
+    <s:tag>Mom Care</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/9477390861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>BC-BBR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/9477361805</id>
+    <published>2017-03-28T12:42:00-03:00</published>
+    <updated>2017-03-28T12:42:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/badger-organic-nursing-balm"/>
+    <title>Badger Organic Nursing Balm</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Badger Balms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/organic-nursing-balm.png?v=1490716086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Badger Balms<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 simple ingredients help to soothe and protect, while the aroma of Coconut Oil &amp; Beeswax lifts your spirits. Hypoallergenic &amp; paediatrician tested, safe for Mom &amp; Baby! Easy to apply, lanolin free.</p>
+<p>21gr/.75 oz tin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Badger</s:tag>
+    <s:tag>Mom Care</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/9477361805</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.75</s:price>
+      <s:sku>BC-NB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7927240833</id>
+    <published>2016-09-13T14:21:00-03:00</published>
+    <updated>2016-09-13T14:21:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nag-champa-soap"/>
+    <title>Nag Champa Soap</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nag Champa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/nag-champa-soap.jpg?v=1473787903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nag Champa<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            3.50 - 5.50
+            <a href="https://soulscents.ca/products/nag-champa-soap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Incense</s:tag>
+    <s:tag>Nag Champa</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927240833</id>
+      <title>Small Soap 75gr</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>NC-SPS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7927240833</id>
+      <title>Nag Champa 150gr</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>NC-SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7967810113</id>
+    <published>2016-09-13T11:53:00-03:00</published>
+    <updated>2016-09-13T11:53:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-lip-balm-double-packs"/>
+    <title>Nova Scotia Fisherman Lip Balm Double Packs</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/NSF_Blueberry_Lip_Balm_2pk.jpg?v=1560783960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A great format for the Nova Scotia Fisherman lip balms in their fantastic trio:</p>
+<ul>
+<li>Sea Kelp</li>
+<li>Sea Salt &amp; Caramel</li>
+<li>Fisher-Mint Lip Balm</li>
+<li>NEW! Canadian Maple, Blueberry and Seabuckthorn Citrus !!</li>
+</ul>
+<p> Clip Strips available for display.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Blueberry</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-LBBB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Seabuckthorn Citrus</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-LBSB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Canadian Maple</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-MPL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Sea Kelp (Double)</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-LBSO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Sea Salt &amp; Caramel (Double)</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-LBSC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://soulscents.ca/products/7967810113</id>
+      <title>Fisher-Mint (Double)</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>NSF-LBSF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926256385</id>
+    <published>2016-09-13T11:53:00-03:00</published>
+    <updated>2016-09-13T11:53:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-wooden-boat-floor-display"/>
+    <title>Nova Scotia Fisherman Wooden Boat Floor Display</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nova_Scotia_Fisherman_Wooden_Boat_Floor_Display.jpg?v=1473782241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are 2 sizes available and can come pre-filled or custom filled.</p>
+<p>Small boat is about $599</p>
+<p>Large boat is about $799</p>
+<p>Please ask us for details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display</s:tag>
+    <s:tag>displays</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926256385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>NSF-DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://soulscents.ca/products/7926203649</id>
+    <published>2016-09-13T11:53:00-03:00</published>
+    <updated>2016-09-13T11:53:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/nova-scotia-fisherman-stem-to-stern-gift-pack"/>
+    <title>Nova Scotia Fisherman Stem to Stern Gift Pack</title>
+    <s:type>All-Natural Bodycare</s:type>
+    <s:vendor>Nova Scotia Fisherman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/Nova_Scotia_Fisherman_Stem_to_Stern_Gift_Pack.jpg?v=1473781832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nova Scotia Fisherman<br>
+        <strong>Type: </strong>All-Natural Bodycare<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Stem to Stern mini pack includes a mini lotion, rescue balm and soap. A large size lip balm is also included. Great for travel or gifts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>Nova Scotia Fisherman</s:tag>
+    <s:tag>Skin</s:tag>
+    <s:variant>
+      <id>https://soulscents.ca/products/7926203649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>NSF-SSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

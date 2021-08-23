@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://soulscents.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://soulscents.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://soulscents.ca/collections/charcoal-tablets-1.atom"/>
+  <title>Soul Scents Wholesale Inc.</title>
+  <updated>2016-09-08T19:10:00-03:00</updated>
+  <author>
+    <name>Soul Scents Wholesale Inc.</name>
+  </author>
+  <entry>
+    <id>https://soulscents.ca/products/7850487745</id>
+    <published>2016-09-08T19:10:00-03:00</published>
+    <updated>2016-09-08T19:10:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://soulscents.ca/products/three-kings-charcoal-tablets"/>
+    <title>Three Kings Charcoal Tablets</title>
+    <s:type>Charcoal Tablets</s:type>
+    <s:vendor>Three Kings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1448/9904/products/three-kings-charcoal-tablets.jpg?v=1473372813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Three Kings<br>
+        <strong>Type: </strong>Charcoal Tablets<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For burning incense resin. Made in Holland.</p>
+<p>Each Box has 10 rolls, each roll has 10 tablets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://soulscents.ca/products/7850487745</id>
+      <title>10 Rolls</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>I-632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
